@@ -3,7 +3,7 @@ type: gdd-core-loop
 version: 0.1
 date: [07/07/26]
 ---
-# [dernière] — Core Loop & Gameplay
+# [dernièredernièr] — Core Loop & Gameplay
 
 ## Core Loop
 
