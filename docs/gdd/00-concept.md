@@ -6,7 +6,7 @@ team: [Chanokchon Hodmontin 682110109 Pitcharpa Chompuming 682110135 Atithap Pon
 ---
 # [Dernière] — Game Concept [682110109]
 
-## Elevator Pitch
+## Elevator Pitch 
 
 [เป็นเกมแนวhorror ผู้เล่นจะทำการตรวจNpcที่ผิดปกติเพื่อจะตัดสินใจเข้าไปในเขตกักกัน ที่สนุกเพราะให้ความสนุกและกดดันไปใตัว]
 
