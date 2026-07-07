@@ -3,7 +3,7 @@ type: gdd-scope
 version: 0.1
 date: [วันที่]
 ---
-# [dernière] — Scope & Feature List
+# [dernière] — Scope & Feature List 682110151
 
 ## Unique Selling Point (USP)
 
