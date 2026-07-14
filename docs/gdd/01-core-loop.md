@@ -3,7 +3,7 @@ type: gdd-core-loop
 version: 0.1
 date: [07/07/26]
 ---
-# [dernièredernièr] — Core Loop & Gameplay [682110135, 682110155]
+# [dernière] — Core Loop & Gameplay [682110135, 682110155]
 
 ## Core Loop
 
@@ -29,7 +29,7 @@ flowchart LR
 1. ตรวจสอบข้อมูลในเอกสารกับตัวจริงว่าแมตช์กันหรือไม่
 2. เผาคนถูกรึเปล่า?
 
-## Controls 
+## Controls
 
 | Key          | Action          |
 | ------------ | --------------- |
