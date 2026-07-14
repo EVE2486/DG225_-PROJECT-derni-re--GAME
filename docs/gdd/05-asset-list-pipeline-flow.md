@@ -3,9 +3,9 @@
 ```mermaid
 flowchart TD
     subgraph SOURCES["แหล่ง Asset ฟรี"]
-        K1[Kenney.nl / OpenGameArt / itch.io] --> C1[docs/02_Assets/_candidates/]
+        K1[Kenney.nl / itch.io] --> C1[docs/02_Assets/_candidates/]
         K2[Freesound.org] --> C1
-        K3[Google Fonts / Fontesk] --> C1
+        K3[dafont.com] --> C1
     end
 
     subgraph REPO["Git Repository (Staging)"]
