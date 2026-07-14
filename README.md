@@ -1,7 +1,6 @@
 # DG225_-PROJECT-derni-re--GAME
 
-
-# [ชื่อเกม] — Documentation Index
+# [dernière] — Documentation Index
 
 ## 📖 เอกสารในโปรเจกต์นี้
 
@@ -38,9 +37,9 @@
 
 ## 📁 ใครดูแลส่วนไหน
 
-| คนที่ | รับผิดชอบ  | โฟลเดอร์ staging                |
-| ---------- | ------------------- | --------------------------------------- |
-| 1          | Sprites / Textures  | `docs/02_Assets/_candidates/sprites/` |
-| 2          | Sound Effects (SFX) | `docs/02_Assets/_candidates/sfx/`     |
-| 3          | Music / BGM         | `docs/02_Assets/_candidates/music/`   |
-| 4          | Fonts + Data        | `docs/02_Assets/_candidates/fonts/`   |
+| คนที่  | รับผิดชอบ  | โฟลเดอร์ staging                |
+| ----------- | ------------------- | --------------------------------------- |
+| 1.682110155 | Sprites / Textures  | `docs/02_Assets/_candidates/sprites/` |
+| 2.682110151 | Sound Effects (SFX) | `docs/02_Assets/_candidates/sfx/`     |
+| 3.682110109 | Music / BGM         | `docs/02_Assets/_candidates/music/`   |
+| 4.682110135 | Fonts + Data        | `docs/02_Assets/_candidates/fonts/`   |
