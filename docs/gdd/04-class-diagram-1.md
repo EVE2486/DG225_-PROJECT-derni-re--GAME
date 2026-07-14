@@ -7,27 +7,54 @@ date: 14/07/2026
 
 ```mermaid
 classDiagram
-    class Game1 {
-        -SpriteBatch _spriteBatch
-        -Player _player
-        +Initialize()
-        +LoadContent()
+    class GameManager {
+        -List~NPC~ _npcs
+        -int _score
+        -bool _isGameOver
+        +CheckNPC(NPC npc) VerdictResult
+        +ApplyConsequence(NPC npc, VerdictResult verdict)
+        +EndGame()
         +Update(GameTime)
-        +Draw(GameTime)
     }
-    class Player {
-        -Vector2 _position
-        -float _speed
+
+    class NPC {
+        -bool _isDataFalsified
+        -bool _isTrulyInsane
         +bool IsAlive
-        +HandleInput()
-        +Update(GameTime)
-        +Draw(SpriteBatch)
+        +GetTrueStatus() bool
+        +GetReportedStatus() bool
     }
-    class ICollidable {
+
+    class VerdictResult {
+        <<enumeration>>
+        DataValid
+        DataFalsified
+    }
+
+    class Consequence {
         <<interface>>
-        +Rectangle Bounds
-        +OnCollide(ICollidable)
+        +Apply(GameManager manager)
     }
-    Game1 --> Player
-    Player ..|> ICollidable
+
+    class HospitalizeAction {
+        +Apply(GameManager manager)
+    }
+
+    class BurnAction {
+        +Apply(GameManager manager)
+        +CheckSanityAfter(NPC npc) SanityCheckResult
+    }
+
+    class SanityCheckResult {
+        <<enumeration>>
+        Insane
+        Sane
+    }
+
+    GameManager --> NPC : ตรวจสอบ
+    GameManager --> VerdictResult : ใช้ผลตัดสิน
+    GameManager --> Consequence : ดำเนินการ
+    HospitalizeAction ..|> Consequence
+    BurnAction ..|> Consequence
+    BurnAction --> SanityCheckResult : เช็คหลังเผา
 ```
