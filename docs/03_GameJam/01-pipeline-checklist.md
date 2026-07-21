@@ -10,25 +10,25 @@ team: [แกงเขียวหวานไก่ จำกัด]
 
 ## Must-Have (ต้องมีก่อน Hour 24 — Playable Build)
 
-| Module (ตาม MonoGame Game Loop)             | หน้าที่                                                            | สถานะ     | ผู้รับผิดชอบ |
-| ---------------------------------------------- | ------------------------------------------------------------------------- | -------------- | ------------------------ |
-| `GameStateManager`                           | สลับ state (Menu / Playing / Pause / GameOver)                        | 🔲 Not Started | [ชื่อ]               |
-| `InputManager`                               | รับ input keyboard/gamepad แบบรวมศูนย์                      | 🔲 Not Started | [ชื่อ]               |
-| Core `Update()` logic ของกลไกหลัก | logic ของ core mechanic 1 อย่างที่เป็นหัวใจเกม     | 🔲 Not Started | [ชื่อ]               |
-| Collision / interaction พื้นฐาน         | ตรวจชน/ตรวจ trigger ระหว่าง entity                       | 🔲 Not Started | [ชื่อ]               |
-| `SpriteBatch` render + camera/viewport       | วาดผ่าน `GraphicsDevice.Viewport` (ห้าม hardcode resolution) | 🔲 Not Started | [ชื่อ]               |
-| Win / Lose condition                           | เงื่อนไขจบเกม/จบด่าน                                   | 🔲 Not Started | [ชื่อ]               |
-| Content pipeline (MGCB)                        | โหลด asset ผ่าน `Content.Load<T>()` เท่านั้น            | 🔲 Not Started | [ชื่อ]               |
-| [module เพิ่มเติมของเกมนี้]  |                                                                           | 🔲 Not Started | [ชื่อ]               |
+| Module (ตาม MonoGame Game Loop)             | หน้าที่                                                            | สถานะ     | ผู้รับผิดชอบ                     |
+| ---------------------------------------------- | ------------------------------------------------------------------------- | -------------- | -------------------------------------------- |
+| `GameStateManager`                           | สลับ state (Menu / Playing / Pause / GameOver)                        | 🔲 Not Started | [682110151]                                  |
+| `InputManager`                               | รับ input keyboard/gamepad แบบรวมศูนย์                      | 🔲 Not Started | [682110151]                                  |
+| Core `Update()` logic ของกลไกหลัก | logic ของ core mechanic 1 อย่างที่เป็นหัวใจเกม     | 🔲 Not Started | [682110151]                                  |
+| Collision / interaction พื้นฐาน         | ตรวจชน/ตรวจ trigger ระหว่าง entity                       | 🔲 Not Started | [682110151]                                  |
+| `SpriteBatch` render + camera/viewport       | วาดผ่าน `GraphicsDevice.Viewport` (ห้าม hardcode resolution) | 🔲 Not Started | [682110109, 682110135, 682110155]            |
+| Win / Lose condition                           | เงื่อนไขจบเกม/จบด่าน                                   | 🔲 Not Started | [682110109, 682110151]                       |
+| Content pipeline (MGCB)                        | โหลด asset ผ่าน `Content.Load<T>()` เท่านั้น            | 🔲 Not Started | [682110135, 682110155]                       |
+| [module เพิ่มเติมของเกมนี้]  |                                                                           | 🔲 Not Started | [682110109, 682110135, 682110151, 682110155] |
 
 ## Nice-to-Have (ทำถ้าเหลือเวลา — Hour 24–34)
 
 | Module                                | หน้าที่                           | สถานะ     | ผู้รับผิดชอบ |
 | ------------------------------------- | ---------------------------------------- | -------------- | ------------------------ |
-| `AudioManager` (SFX พื้นฐาน) | เสียงตอบสนอง action หลัก | 🔲 Not Started | [ชื่อ]               |
-| UI/HUD (score, timer)                 | แสดงสถานะระหว่างเล่น | 🔲 Not Started | [ชื่อ]               |
-| Music / เพลงประกอบ          |                                          | 🔲 Not Started | [ชื่อ]               |
-| [feature รองอื่นๆ]            |                                          | 🔲 Not Started | [ชื่อ]               |
+| `AudioManager` (SFX พื้นฐาน) | เสียงตอบสนอง action หลัก | 🔲 Not Started | [682110135]              |
+| UI/HUD (score, timer)                 | แสดงสถานะระหว่างเล่น | 🔲 Not Started | [682110155]              |
+| Music / เพลงประกอบ          |                                          | 🔲 Not Started | [682110109]              |
+| [feature รองอื่นๆ]            |                                          | 🔲 Not Started | [682110151]              |
 
 ## Cut-List (ตัดทิ้งก่อนถ้าเวลาไม่พอ — ห้ามเริ่มก่อน Must-Have เสร็จ)
 
