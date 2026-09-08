@@ -19,7 +19,7 @@ MonoGame | วาด SpritesSheet การโจมตี ทั้งตัว
 - [ ] [เริ่มวาดภาพตัวละคร มอนสเตอร์ และ SpritesSheet] [status:: todo] [owner:: อลิสา]
   [due:: 2026-09-09]
 - [ ] [ทดสอบวาง SpritesSheet ใน MonoGame และตรวจสอบภาพรวมของเกมคร่าว ๆ] [status:: todo]
-  [owner:: อติเทพ] [due:: 2026-09-12]
+  [owner:: อติเทพ] [due:: 2026-09-11]
 - [ ] [รับงานวาดจากชนกชนม์ (Designer) ทั้งพื้นหลัง มอนสเตอร์ชนิดใหม่ SpritesSheet มอนสเตอร์] [status:: todo]
   [owner:: ชนกชนม์] [due:: 2026-09-12]
 
