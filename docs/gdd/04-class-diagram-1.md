@@ -3,7 +3,7 @@ type: gdd-class-diagram
 version: 0.1
 date: 14/07/2026
 ---
-# Class Diagram — [dernière]
+# Class Diagram — [Melanie]
 
 ```mermaid
 classDiagram

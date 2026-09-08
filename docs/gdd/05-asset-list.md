@@ -1,9 +1,9 @@
 ---
 type: asset-list
 version: 0.1
-date: [7/14/2026]
+date: [07/14/2026]
 ---
-# Asset List — [dernière]
+# Asset List — [Melanie]
 
 ## Sprites / Textures
 
