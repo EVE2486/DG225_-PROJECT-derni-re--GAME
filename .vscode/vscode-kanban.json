@@ -5,12 +5,16 @@
         "name": "EVE"
       },
       "category": "Scene",
-      "creation_time": "2026-09-09T09:35:42.894Z",
+      "creation_time": "2026-09-09T10:25:36.664Z",
       "description": {
-        "content": "รอทำพวกตัวละคร + มอนสเตอร์ให้เสร็จก่อนนะจ้ะ",
+        "content": "รอทำพวก Character + Monster เสร็จก่อนนะจ้ะ",
         "mime": "text/markdown"
       },
-      "id": "3",
+      "details": {
+        "content": "EVE",
+        "mime": "text/markdown"
+      },
+      "id": "1",
       "references": [],
       "title": "Background Game"
     },
@@ -19,14 +23,18 @@
         "name": "EVE"
       },
       "category": "Weapon",
-      "creation_time": "2026-09-09T09:37:22.578Z",
+      "creation_time": "2026-09-09T10:25:57.490Z",
       "description": {
-        "content": "ท่า Animation พวกปืนฉมวก ตรีศูล ประแจ",
+        "content": "ทำ Animation SpriteSheet Atk Harpoon + Trident + Wrench",
         "mime": "text/markdown"
       },
-      "id": "5",
+      "details": {
+        "content": "EVE",
+        "mime": "text/markdown"
+      },
+      "id": "2",
       "references": [],
-      "title": "SpriteSheet Att_Harpoon, Trident, Wrench"
+      "title": "SpriteSheet Atk Harpoon + Trident + Wrench"
     }
   ],
   "in-progress": [
@@ -35,43 +43,38 @@
         "name": "EVE"
       },
       "category": "Monster",
-      "creation_time": "2026-09-09T09:36:19.709Z",
+      "creation_time": "2026-09-09T10:27:36.723Z",
       "description": {
-        "content": "ทำกีกี้เพิ่ม\nทำ Animation ขยับให้ได้",
+        "content": "ลงสี + Animation เดินนิดหน่อย",
+        "mime": "text/markdown"
+      },
+      "details": {
+        "content": "EVE",
         "mime": "text/markdown"
       },
       "id": "4",
-      "prio": 0,
       "references": [],
-      "title": "SpriteSheet Monster"
-    },
-    {
-      "assignedTo": {
-        "name": "MAPRANG"
-      },
-      "category": "Items",
-      "creation_time": "2026-09-09T09:46:44.295Z",
-      "description": {
-        "content": "ลงรายละเอียดเก็บดีเทลตาม Semi-real ",
-        "mime": "text/markdown"
-      },
-      "id": "6",
-      "references": [],
-      "title": "เก็บดีเทล Items"
+      "title": "SpriteSheet Monster (ก้อนเนื้อสีแดง)",
+      "type": "bug"
     },
     {
       "assignedTo": {
         "name": "EVE"
       },
       "category": "Character",
-      "creation_time": "2026-09-09T09:33:52.259Z",
-      "id": "1",
+      "creation_time": "2026-09-09T10:26:48.467Z",
+      "description": {
+        "content": "ลงแสงเงาอะไรเพิ่มเติม",
+        "mime": "text/markdown"
+      },
+      "details": {
+        "content": "EVE",
+        "mime": "text/markdown"
+      },
+      "id": "3",
       "references": [],
       "title": "เก็บดีเทล Run, Jump",
-      "description": {
-        "content": "ลงแสง + เงา",
-        "mime": "text/markdown"
-      }
+      "type": "bug"
     }
   ],
   "testing": [],
@@ -81,14 +84,18 @@
         "name": "EVE"
       },
       "category": "Character",
-      "creation_time": "2026-09-09T09:34:48.219Z",
-      "id": "2",
-      "references": [],
-      "title": "SpriteSheet Idle",
-      "details": {
+      "creation_time": "2026-09-09T10:28:05.482Z",
+      "description": {
         "content": "ท่ายืนตัวละคร",
         "mime": "text/markdown"
-      }
+      },
+      "details": {
+        "content": "EVE",
+        "mime": "text/markdown"
+      },
+      "id": "5",
+      "references": [],
+      "title": "SpriteSheet Idle"
     }
   ]
 }
