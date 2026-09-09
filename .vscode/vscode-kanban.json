@@ -1,0 +1,94 @@
+{
+  "todo": [
+    {
+      "assignedTo": {
+        "name": "EVE"
+      },
+      "category": "Scene",
+      "creation_time": "2026-09-09T09:35:42.894Z",
+      "description": {
+        "content": "รอทำพวกตัวละคร + มอนสเตอร์ให้เสร็จก่อนนะจ้ะ",
+        "mime": "text/markdown"
+      },
+      "id": "3",
+      "references": [],
+      "title": "Background Game"
+    },
+    {
+      "assignedTo": {
+        "name": "EVE"
+      },
+      "category": "Weapon",
+      "creation_time": "2026-09-09T09:37:22.578Z",
+      "description": {
+        "content": "ท่า Animation พวกปืนฉมวก ตรีศูล ประแจ",
+        "mime": "text/markdown"
+      },
+      "id": "5",
+      "references": [],
+      "title": "SpriteSheet Att_Harpoon, Trident, Wrench"
+    }
+  ],
+  "in-progress": [
+    {
+      "assignedTo": {
+        "name": "EVE"
+      },
+      "category": "Monster",
+      "creation_time": "2026-09-09T09:36:19.709Z",
+      "description": {
+        "content": "ทำกีกี้เพิ่ม\nทำ Animation ขยับให้ได้",
+        "mime": "text/markdown"
+      },
+      "id": "4",
+      "prio": 0,
+      "references": [],
+      "title": "SpriteSheet Monster"
+    },
+    {
+      "assignedTo": {
+        "name": "MAPRANG"
+      },
+      "category": "Items",
+      "creation_time": "2026-09-09T09:46:44.295Z",
+      "description": {
+        "content": "ลงรายละเอียดเก็บดีเทลตาม Semi-real ",
+        "mime": "text/markdown"
+      },
+      "id": "6",
+      "references": [],
+      "title": "เก็บดีเทล Items"
+    },
+    {
+      "assignedTo": {
+        "name": "EVE"
+      },
+      "category": "Character",
+      "creation_time": "2026-09-09T09:33:52.259Z",
+      "id": "1",
+      "references": [],
+      "title": "เก็บดีเทล Run, Jump",
+      "description": {
+        "content": "ลงแสง + เงา",
+        "mime": "text/markdown"
+      }
+    }
+  ],
+  "testing": [],
+  "done": [
+    {
+      "assignedTo": {
+        "name": "EVE"
+      },
+      "category": "Character",
+      "creation_time": "2026-09-09T09:34:48.219Z",
+      "id": "2",
+      "references": [],
+      "title": "SpriteSheet Idle",
+      "details": {
+        "content": "ท่ายืนตัวละคร",
+        "mime": "text/markdown"
+      }
+    }
+  ]
+}
