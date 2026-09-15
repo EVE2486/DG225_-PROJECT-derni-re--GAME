@@ -29,7 +29,7 @@ team: [แกงเขียวหวานไก่ จำกัด]
 
 ```mermaid
 gantt
-    title Game Jam 48 ชั่วโมง — [ชื่อทีม]
+    title Game Jam 48 ชั่วโมง — [แกงเขียวหวานไก่ จำกัด]
     dateFormat  X
     axisFormat %s h
     section Plan
