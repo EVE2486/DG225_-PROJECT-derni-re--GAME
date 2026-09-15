@@ -10,7 +10,7 @@
 
 ### Story 3 — Level, Character and Story Design
 
-- [ ] ออกแบบ Tilemap พื้นหลังด่านที่ 2-3 [owner:: Chanokchon] [domain:: designer]
+- [ ] ออกแบบ Tilemap พื้นหลังด่านที่ 1 [owner:: Chanokchon] [domain:: designer]
   [estimate:: 8h] [status:: In progress]
 
 ### Story 4 — Game Screens & Items Visuals
