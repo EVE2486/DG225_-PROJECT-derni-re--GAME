@@ -37,27 +37,27 @@
 
 ### Story 1 — [As a player, I want more level and monster]
 
-- [X] [หาไอเดีย เรฟ]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 4]  [status:: todo]
-- [X] [ออกแบบเลเวลและมอนสเตอร์]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 5]  [status:: todo]
-- [ ] [เลือกพาเลทสี สไตล์ ธีม ลงสี]  [owner:: อลิสา ใจสิทธิ์]  [estimate:: 8]  [status:: todo]
+- [X] [หาไอเดีย เรฟ]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 4]  [status:: Done]
+- [X] [ออกแบบเลเวลและมอนสเตอร์]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 5]  [status:: Done]
+- [ ] [เลือกพาเลทสี สไตล์ ธีม ลงสี]  [owner:: อลิสา ใจสิทธิ์]  [estimate:: 8]  [status:: In progress]
 - [ ] [เพื่อนในกลุ่มแสดงความคิดเห็น และรับฟีดแบ็ค]  [owner:: อลิสา ใจสิทธิ์]  [estimate:: 4]  [status:: todo]
 
 ## Tasks 2
 
 ### Story 2 — [As a player, I want to scroll inventory tab, so that I can select any items in inventory tab]
 
-- [ ] [หาไอเดีย เรฟ สำหรับลักษณะช่องไอเท็ม]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 4]  [status:: todo]
-- [ ] [เลือกพาเลทสี สไตล์ ธีม ลงสี]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 5]  [status:: todo]
-- [ ] [เขียนโค้ด วางกลไกการทำงาน]  [owner:: อติเทพ ป้องนานาค]  [estimate:: 8]  [status:: todo]
+- [X] [หาไอเดีย เรฟ สำหรับลักษณะช่องไอเท็ม]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 4]  [status:: Done]
+- [X] [เลือกพาเลทสี สไตล์ ธีม ลงสี]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 5]  [status:: Done]
+- [ ] [เขียนโค้ด วางกลไกการทำงาน]  [owner:: อติเทพ ป้องนานาค]  [estimate:: 8]  [status:: In progress]
 - [ ] [เพื่อนในกลุ่มแสดงความคิดเห็น และรับฟีดแบ็ค]  [owner:: อติเทพ ป้องนานาค]  [estimate:: 4]  [status:: todo]
 
 ## Tasks 3
 
 ### Story 3 — [As a player, I want to see more detail of each items]
 
-- [ ] [หาไอเดีย เรฟ สำหรับแต่ละไอเท็ม]  [owner:: พิชชาภา ชมภูมิ่ง]  [estimate:: 3]  [status:: todo]
-- [ ] [เลือกพาเลทสี สไตล์ ธีม]  [owner:: พิชชาภา ชมภูมิ่ง]  [estimate:: 5]  [status:: todo]
-- [ ] [ลงสี เพิ่มรายละเอียด]  [owner:: พิชชาภา ชมภูมิ่ง]  [estimate:: 7]  [status:: todo]
+- [X] [หาไอเดีย เรฟ สำหรับแต่ละไอเท็ม]  [owner:: พิชชาภา ชมภูมิ่ง]  [estimate:: 3]  [status:: Done]
+- [ ] [เลือกพาเลทสี สไตล์ ธีม]  [owner:: พิชชาภา ชมภูมิ่ง]  [estimate:: 5]  [status:: In progress]
+- [ ] [ลงสี เพิ่มรายละเอียด]  [owner:: พิชชาภา ชมภูมิ่ง]  [estimate:: 7]  [status:: In progress]
 - [ ] [เพื่อนในกลุ่มแสดงความคิดเห็น และรับฟีดแบ็ค]  [owner:: พิชชาภา ชมภูมิ่ง]  [estimate:: 4]  [status:: todo]
 
 ## Tasks 4
@@ -84,6 +84,12 @@
 **เมื่อวาน:** ตรวจสอบ Animation ของ Character ว่าใช้ได้หรือยัง? และเพิ่มเติมรายละเอียดให้ดีขึ้น
 **วันนี้:** จัดการสร้าง SpriteSheet Animation ของตัวละคร ทั้งการเดิน การยืน และการวิ่ง เพื่อส่งให้กับ Programmer
 **Blocked:** ไม่ใช้เฟรมเยอะเกินไป เพราะอาจจะใช้เวลาทำค่อนข้างนาน
+
+### [2026-09-18]
+
+**เมื่อวาน:** ปรับแก้ดีเทลของ SpriteSheet ตัวละครและมอนสเตอร์ในด่านใหม่ เพื่อเตรียมส่งให้กับ Programmer
+**วันนี้:** ส่ง SpriteSheet 'Jump' ตัวละครให้ Programmer วางแผนสร้างด่าน 2 กำหนดไอเท็มให้เยอะขึ้น ปรับแก้เกมเพลย์ด่าน 1 รวมไปถึงพื้นหลังเปลี่ยนไปใช้แบบ Parallax แทน และเพิ่มโค้ดเรื่องการ Interact กับไอเท็มต่าง ๆ ได้มากขึ้น
+**Blocked:** พื้นหลังเดิม
 
 ---
 
