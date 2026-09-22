@@ -21,20 +21,10 @@ MonoGame | ทาระบบกระโดดและตรวจการช
 ตัวละครตกทะลุพื้นเป็นบางจังหวะ |
 --------------------------------------------------------------
 
-
-| สมหญิง (Designer) | ร่าง Layout Tilemap ด่าน 1 ใน Tiled ขนาด 32x32 |
-จัดวาง Collision Layer ให้ตรงกับ Tilemap | รอขนาด Tile Size ที่โปรแกรมเมอร์ต้องการยืนยัน
-|
-| สมศักดิ์ (Programmer) | วางโครงสร้าง ScreenManager และหน้า Title Screen |
-เชื่อมต่อระบบเปลี่ยน State ระหว่าง Title Screen และ Gameplay | โค้ด MonoGame บน
-macOS มีปัญหาเรื่อง Font Rendering |
--------------------------------------------------
-
 ## Action Items & Blockers Resolution
 
 - [ ] [แก้ไขลายเส้นจากภาพเดิมให้เหมือนกันอลิสา] [status:: doing]
   [owner:: พิชชาภา] [due:: 2026-09-10]
-
 
 ---
 

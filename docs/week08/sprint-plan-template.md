@@ -19,10 +19,10 @@
 | # | User Story                                                                                                                       | รับผิดชอบ              | MoSCoW    | Estimate (SP) | Status         |
 | - | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | --------- | ------------- | -------------- |
 | 1 | As an player, I want more level and monster, so that I came across a new challenge and more aesthetic                          | ชนกชนม์ หมดมลทิน | Must Have | 6             | 🔄 In Progress |
-| 2 | As a player, I want to scroll inventory tab, so that I can select any items in inventory tab                                     | อติเทพ ป้องนานาค | Must Have | 4             | 🔲 Todo        |
-| 3 | As a player, I want to see more detail of each items, so that I can feel and sort by category of them easilyer                   | พิชชาภา ชมภูมิ่ง | Must Have | 6             | 🔲 Todo        |
-| 4 | As a player, I want to see character move, attack smoothly and realistic, so that I can become immersed in the game seamlessly | อลิสา ใจสิทธิ์     | Must Have | 8             | 🔄 In Progress |
-| 5 | As a player, I want to see background, so that I can experience the atmosphere from game                                         | อลิสา ใจสิทธิ์     | Must Have | 3             | 🔲 Todo        |
+| 2 | As a player, I want to scroll inventory tab, so that I can select any items in inventory tab                                     | อติเทพ ป้องนานาค | Must Have | 4             | 🔄 In Progress |
+| 3 | As a player, I want to see more detail of each items, so that I can feel and sort by category of them easilyer                   | พิชชาภา ชมภูมิ่ง | Must Have | 6             | 🔄 In Progress |
+| 4 | As a player, I want to see character move, attack smoothly and realistic, so that I can become immersed in the game seamlessly | อลิสา ใจสิทธิ์     | Must Have | 8             | ✅ Done        |
+| 5 | As a player, I want to see background, so that I can experience the atmosphere from game                                         | อลิสา ใจสิทธิ์     | Must Have | 3             | ✅ Done        |
 
 ## Status Legend
 
@@ -37,28 +37,28 @@
 
 ### Story 1 — [As a player, I want more level and monster]
 
-- [X] [หาไอเดีย เรฟ]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 4]  [status:: todo]
-- [X] [ออกแบบเลเวลและมอนสเตอร์]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 5]  [status:: todo]
-- [ ] [เลือกพาเลทสี สไตล์ ธีม ลงสี]  [owner:: อลิสา ใจสิทธิ์]  [estimate:: 8]  [status:: todo]
-- [ ] [เพื่อนในกลุ่มแสดงความคิดเห็น และรับฟีดแบ็ค]  [owner:: อลิสา ใจสิทธิ์]  [estimate:: 4]  [status:: todo]
+- [X] [หาไอเดีย เรฟ]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 4]  [status:: Done]
+- [X] [ออกแบบเลเวลและมอนสเตอร์]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 5]  [status:: Done]
+- [X] [เลือกพาเลทสี สไตล์ ธีม ลงสี]  [owner:: อลิสา ใจสิทธิ์]  [estimate:: 8]  [status:: Done]
+- [X] [เพื่อนในกลุ่มแสดงความคิดเห็น และรับฟีดแบ็ค]  [owner:: อลิสา ใจสิทธิ์]  [estimate:: 4]  [status:: Done]
 
 ## Tasks 2
 
 ### Story 2 — [As a player, I want to scroll inventory tab, so that I can select any items in inventory tab]
 
-- [ ] [หาไอเดีย เรฟ สำหรับลักษณะช่องไอเท็ม]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 4]  [status:: todo]
-- [ ] [เลือกพาเลทสี สไตล์ ธีม ลงสี]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 5]  [status:: todo]
-- [ ] [เขียนโค้ด วางกลไกการทำงาน]  [owner:: อติเทพ ป้องนานาค]  [estimate:: 8]  [status:: todo]
-- [ ] [เพื่อนในกลุ่มแสดงความคิดเห็น และรับฟีดแบ็ค]  [owner:: อติเทพ ป้องนานาค]  [estimate:: 4]  [status:: todo]
+- [X] [หาไอเดีย เรฟ สำหรับลักษณะช่องไอเท็ม]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 4]  [status:: Done]
+- [X] [เลือกพาเลทสี สไตล์ ธีม ลงสี]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 5]  [status:: Done]
+- [ ] [เขียนโค้ด วางกลไกการทำงาน]  [owner:: อติเทพ ป้องนานาค]  [estimate:: 8]  [status:: In Progress]
+- [ ] [เพื่อนในกลุ่มแสดงความคิดเห็น และรับฟีดแบ็ค]  [owner:: อติเทพ ป้องนานาค]  [estimate:: 4]  [status:: In Progress]
 
 ## Tasks 3
 
 ### Story 3 — [As a player, I want to see more detail of each items]
 
-- [ ] [หาไอเดีย เรฟ สำหรับแต่ละไอเท็ม]  [owner:: พิชชาภา ชมภูมิ่ง]  [estimate:: 3]  [status:: todo]
-- [ ] [เลือกพาเลทสี สไตล์ ธีม]  [owner:: พิชชาภา ชมภูมิ่ง]  [estimate:: 5]  [status:: todo]
-- [ ] [ลงสี เพิ่มรายละเอียด]  [owner:: พิชชาภา ชมภูมิ่ง]  [estimate:: 7]  [status:: todo]
-- [ ] [เพื่อนในกลุ่มแสดงความคิดเห็น และรับฟีดแบ็ค]  [owner:: พิชชาภา ชมภูมิ่ง]  [estimate:: 4]  [status:: todo]
+- [X] [หาไอเดีย เรฟ สำหรับแต่ละไอเท็ม]  [owner:: พิชชาภา ชมภูมิ่ง]  [estimate:: 3]  [status:: Done]
+- [X] [เลือกพาเลทสี สไตล์ ธีม]  [owner:: พิชชาภา ชมภูมิ่ง]  [estimate:: 5]  [status:: Done]
+- [ ] [ลงสี เพิ่มรายละเอียด]  [owner:: พิชชาภา ชมภูมิ่ง]  [estimate:: 7]  [status:: In Progress]
+- [ ] [เพื่อนในกลุ่มแสดงความคิดเห็น และรับฟีดแบ็ค]  [owner:: พิชชาภา ชมภูมิ่ง]  [estimate:: 4]  [status:: In Progress]
 
 ## Tasks 4
 
@@ -66,8 +66,8 @@
 
 - [X] [หาไอเดีย เรฟ สำหรับการเคลื่อนไหวของตัวละคร]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 2]  [status:: Done]
 - [X] [เลือกพาเลทสี สไตล์ ธีม]  [owner:: อลิสา ใจสิทธิ์]  [estimate:: 6]  [status:: Done]
-- [ ] [ลงสี เพิ่มรายละเอียด]  [owner:: อลิสา ใจสิทธิ์]  [estimate:: 8]  [status:: In progress]
-- [ ] [เพื่อนในกลุ่มแสดงความคิดเห็น และรับฟีดแบ็ค]  [owner:: อลิสา ใจสิทธิ์]  [estimate:: 4]  [status:: todo]
+- [X] [ลงสี เพิ่มรายละเอียด]  [owner:: อลิสา ใจสิทธิ์]  [estimate:: 8]  [status:: Done]
+- [X] [เพื่อนในกลุ่มแสดงความคิดเห็น และรับฟีดแบ็ค]  [owner:: อลิสา ใจสิทธิ์]  [estimate:: 4]  [status:: Done]
 
 ---
 
