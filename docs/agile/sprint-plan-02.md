@@ -7,18 +7,18 @@
 
 ### Story 2 — Painting others assets in level 1 & 2 Visuals
 
-- [ ] ลงสีดีเทลเพิ่มเติมของ Assets กับ Background Level 1 [owner:: Alisa] [domain::
+- [X] ลงสีดีเทลเพิ่มเติมของ Assets กับ Background Level 1 [owner:: Alisa] [domain::
   artist01] [estimate:: 8h] [status:: In progress]
 
 ### Story 3 — New background for level 2 & Assets Design
 
-- [ ] ออกแบบ Tilemap พื้นหลังด่านที่ 2 [owner:: Chanokchon] [domain:: designer]
-  [estimate:: 4h] [status:: In progress]
+- [X] ออกแบบ Tilemap พื้นหลังด่านที่ 2 [owner:: Chanokchon] [domain:: designer]
+  [estimate:: 4h] [status:: Done]
 
 ### Story 4 — Platform level 1 & Items Visuals
 
-- [ ] วาด Platform สำหรับ Level 1 และ Items [owner:: Pitcharpa]
-  [domain:: artist02] [estimate:: 5h] [status:: In progress]
+- [X] วาด Platform สำหรับ Level 1 และ Items [owner:: Pitcharpa]
+  [domain:: artist02] [estimate:: 5h] [status:: Done]
 
 <!-- Template เต็มไฟล์สำหรับสร้าง docs/agile/02-sprint-backlog.md -->
 
@@ -94,8 +94,6 @@ gantt
 
 ---
 
-
-
 # Sprint [2] Plan
 
 **Sprint Goal:** [เพิ่มเติม Assets, Background, New UI, Checkpoint ในตัว Prototype]
@@ -109,8 +107,8 @@ gantt
 | # | User Story                                                                                                       | MoSCoW    | Estimate (SP) | Status         |
 | - | ---------------------------------------------------------------------------------------------------------------- | --------- | ------------- | -------------- |
 | 1 | As a new monster in level 2, I want to attack, so that I can hurt the player                                     | Must Have | 8             | 🔲 Todo        |
-| 2 | As a items, I want to pick up, so that I can use their ability.                                                  | Must Have | 4             | 🔲 Todo        |
-| 3 | As a player, I want to see more detail of each items, so that I can seperate types items of them                 | Must Have | 6             | 🔄 In Progress |
+| 2 | As a items, I want to pick up, so that I can use their ability.                                                  | Must Have | 4             | 🔄 In Progress |
+| 3 | As a player, I want to see more detail of each items, so that I can seperate types items of them                 | Must Have | 6             | ✅ Done        |
 | 4 | As a designer, I want player has a checkpoint locate for each level, so that I can spawn where the place I spawn | Must Have | 6             | 🔄 In Progress |
 
 ## Status Legend
@@ -122,15 +120,13 @@ gantt
 
 ---
 
-
-
 ## Tasks 1
 
 ### Story 1 — [As a new monster in level 2, I want to attack, so that I can hurt the player]
 
 - [X] [หาไอเดีย เรฟ]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 4]  [status:: Done]
 - [X] [ออกแบบเลเวลและมอนสเตอร์]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 5]  [status:: Done]
-- [ ] [เลือกพาเลทสี สไตล์ ธีม ลงสี]  [owner:: อลิสา ใจสิทธิ์]  [estimate:: 8]  [status:: In Progress]
+- [X] [เลือกพาเลทสี สไตล์ ธีม ลงสี]  [owner:: อลิสา ใจสิทธิ์]  [estimate:: 8]  [status:: Done]
 - [ ] [เพื่อนในกลุ่มแสดงความคิดเห็น และรับฟีดแบ็ค]  [owner:: อลิสา ใจสิทธิ์]  [estimate:: 4]  [status:: In Progress]
 
 ## Tasks 2

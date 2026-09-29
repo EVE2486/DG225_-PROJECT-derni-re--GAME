@@ -8,7 +8,7 @@ date: [07/07/26]
 ## Unique Selling Point (USP)
 
 1. [USP ที่ 1] ธีมยุคล่าอาณานิคม
-2. [USP ที่ 2] บรรยากาศ
+2. [USP ที่ 2] บรรยากาศ Dungeonpuck
 3. [USP ที่ 3] Artstyles & Character
 
 ## In Scope — สิ่งที่ "จะทำ" ในภาคการศึกษานี้

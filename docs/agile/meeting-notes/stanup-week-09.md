@@ -15,7 +15,7 @@ MonoGame | ทาระบบกระโดดและตรวจการช
 
 ## Action Items & Blockers Resolution
 
-- [ ] [แก้ระบบ UI และท่าทางในการเคลื่อนไหล] [status:: doing]
+- [X] [แก้ระบบ UI และท่าทางในการเคลื่อนไหล] [status:: Done]
   [owner:: อติเทพ] [due:: 2026-09-08]
 
 ---
