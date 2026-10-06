@@ -19,15 +19,18 @@ MonoGame | วาด SpritesSheet การโจมตี ทั้งตัว
 
 ## Action Items & Blockers Resolution
 
-- [ ] [ส่งภาพ SpritesSheet ของตัวละครให้อติเทพ] [status:: In progress]
+- [X] [ส่งภาพ SpritesSheet ของตัวละครให้อติเทพ] [status:: In progress]
   [owner:: อลิสา] [due:: 2026-09-08]
-- [ ] [เริ่มวาดภาพตัวละคร มอนสเตอร์ และ SpritesSheet] [status:: todo] [owner:: อลิสา]
+- [X] [เริ่มวาดภาพตัวละคร มอนสเตอร์ และ SpritesSheet] [status:: todo] [owner:: อลิสา]
   [due:: 2026-09-09]
 - [ ] [ทดสอบวาง SpritesSheet ใน MonoGame และตรวจสอบภาพรวมของเกมคร่าว ๆ] [status:: todo]
-  [owner:: อติเทพ] [due:: 2026-09-10]
+  [owner:: อติเทพ] [due:: 2026-09-11]
 - [ ] [รับงานวาดจากชนกชนม์ (Designer) ทั้งพื้นหลัง มอนสเตอร์ชนิดใหม่ SpritesSheet มอนสเตอร์] [status:: todo]
+- [X] [ทดสอบวาง SpritesSheet ใน MonoGame และตรวจสอบภาพรวมของเกมคร่าว ๆ] [status:: todo]
+  [owner:: อติเทพ] [due:: 2026-09-11]
+- [X] [รับงานวาดจากชนกชนม์ (Designer) ทั้งพื้นหลัง มอนสเตอร์ชนิดใหม่ SpritesSheet มอนสเตอร์] [status:: In progress]
   [owner:: ชนกชนม์] [due:: 2026-09-12]
-- [ ] [ช่วยอลิสาแก้ท่าทางตัวละคร และการลงสี] [status:: in progress]
+- [ ] [ช่วยอลิสาแก้ท่าทางตัวละคร และการลงสี] [status:: In progress]
   [owner:: ชนกชนม์] [due:: 2026-09-10]
 - [ ] [ช่วยตรวจสอบการลงสีและการวาดอาวุธของพิชชาภา] [status:: in progress] [owner:: ชนกชนม์ หมดมลทิน]
   [due:: 2026-09-08]
