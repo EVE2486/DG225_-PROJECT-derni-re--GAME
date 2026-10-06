@@ -8,27 +8,27 @@
 
 > ภาพรวมว่า User Story ไหนจาก `01-product-backlog.md` จะไปอยู่ Sprint ไหน — Sprint ที่ยังไม่ถึงคือ draft คร่าวๆ ปรับได้เสมอเมื่อเข้าใจงานมากขึ้น
 
-## Timeline (4 Sprint, Sprint ละ 2 สัปดาห์)
+## Timeline (3 Sprint, Sprint ละ 2 สัปดาห์)
 
 | Sprint   | เริ่ม | สิ้นสุด |
 | -------- | ---------- | -------------- |
 | Sprint 1 | 2026-09-01 | 2026-09-14     |
 | Sprint 2 | 2026-09-15 | 2026-09-28     |
-| Sprint 3 | 2026-09-29 | 2026-10-12     |
+| Sprint 3 | 2026-10-07 | 2026-11-02     |
 
 ```mermaid
 gantt
-    title Project Timeline — Sprint 1-4
+    title Project Timeline — Sprint 1-3
     dateFormat  YYYY-MM-DD
     section Sprints
     Sprint 1 :s1, 2026-09-01, 14d
     Sprint 2 :s2, after s1, 14d
-    Sprint 3 :s3, after s2, 14d
+    Sprint 3 :s3, 2026-10-07, 21d
 ```
 
 > ปรับวันที่ให้ตรงกับวันที่ทีมเริ่มลงมือทำจริง (ถ้าไม่ใช่วันแลปนี้)
 
-## Sprint 1 (กำลังทำ)
+## Sprint 1 (Done)
 
 | # | User Story                                                                                              | MoSCoW    | Estimate (SP) |
 | - | ------------------------------------------------------------------------------------------------------- | --------- | ------------- |
@@ -37,7 +37,7 @@ gantt
 | 3 | As a player, I want to see more detail of each items                                                    | Must Have | 6             |
 | 4 | As a player, I want to see character move and attack smoothly, realistiic                               | Must Have | 8             |
 
-## Sprint 2 (Draft)
+## Sprint 2 (In Progress)
 
 | # | User Story                                                                                              | MoSCoW    | Estimate (SP) |
 | - | ------------------------------------------------------------------------------------------------------- | --------- | ------------- |
@@ -46,7 +46,7 @@ gantt
 | 3 | As an player, I want more level and monster, so that I came across a new challenge and more aesthetic | Must Have | 6             |
 | 4 | As a player, I want to see more detail of each items                                                    | Must Have | 6             |
 
-## Sprint 3 (Draft)
+## Sprint 3 (Todo)
 
 | # | User Story                                                                                   | MoSCoW      | Estimate (SP) |
 | - | -------------------------------------------------------------------------------------------- | ----------- | ------------- |

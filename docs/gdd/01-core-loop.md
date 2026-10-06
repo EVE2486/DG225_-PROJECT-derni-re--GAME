@@ -42,7 +42,7 @@ flowchart LR
 | Key          | Action                    |
 | ------------ | ------------------------- |
 | A D          | Move                      |
-| T            | Open inventory            |
+| Tab          | Open inventory            |
 | E            | Interact items or monster |
 | Space        | Jump                      |
 | Double Space | Double Jump               |

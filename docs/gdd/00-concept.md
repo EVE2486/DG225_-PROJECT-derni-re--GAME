@@ -12,7 +12,7 @@ team: [Chanokchon Hodmontin 682110109 Pitcharpa Chompuming 682110135 Atithap Pon
 
 ## Genre & Platform
 
-- **Genre:** [Survival Horror, Mystery]
+- **Genre:** [Survival, Platformer, Mystery]
 - **Platform:** PC (Windows)
 - **Engine:** MonoGame (C#)
 - **Target Audience:** [คนที่ชอบเกี่ยวกับการไขปริศนา ติดตามเนื้อเรื่องเกม แนวสยองขวัญ]
@@ -23,4 +23,4 @@ team: [Chanokchon Hodmontin 682110109 Pitcharpa Chompuming 682110135 Atithap Pon
 | ------------------------------- | ------------------------------------------ |
 | Quarantine Zone: The last Check | ประวัติศาสตร์                 |
 | No, I'm not human               | ยุคล่าแม่มด                     |
-| Hollow Knight                   | 2D Platform                                |
+| Hollow Knight                   | 2D Platformer                              |

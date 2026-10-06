@@ -1,0 +1,66 @@
+{
+  "todo": [
+    {
+      "assignedTo": {
+        "name": "Aliz12"
+      },
+      "category": "Scene",
+      "creation_time": "2026-10-06T11:05:23.622Z",
+      "description": {
+        "content": "ออกแบบ หาเรฟ เพื่อนำไปสร้างด่านที่ 3 ",
+        "mime": "text/markdown"
+      },
+      "id": "4",
+      "references": [],
+      "title": "New Level 3 background, Assets in Level 3 & Platform"
+    }
+  ],
+  "in-progress": [
+    {
+      "assignedTo": {
+        "name": "Aliz12"
+      },
+      "category": "Character",
+      "creation_time": "2026-10-06T11:04:16.556Z",
+      "description": {
+        "content": "เก็บดีเทล Animation โจมตีของตัวละครหลัก พวก Sword, Wrench, Harpoon and Trident",
+        "mime": "text/markdown"
+      },
+      "id": "3",
+      "references": [],
+      "title": "เก็บดีเทล Animation โจมตีของตัวละครหลัก"
+    }
+  ],
+  "testing": [
+    {
+      "assignedTo": {
+        "name": "Aliz12"
+      },
+      "category": "Monster",
+      "creation_time": "2026-10-06T11:03:27.083Z",
+      "description": {
+        "content": "เพิ่ม Monster ใน Level 1 ให้เยอะขึ้น & เพิ่มการโจมตี Monster เพื่อให้ผู้เล่นคาดเดาไม่ได้ระหว่างที่โจมตี",
+        "mime": "text/markdown"
+      },
+      "id": "2",
+      "references": [],
+      "title": "เพิ่ม Monster ใน Level 1 ให้เยอะขึ้น & เพิ่มการโจมตี Monster"
+    }
+  ],
+  "done": [
+    {
+      "assignedTo": {
+        "name": "Aliz12"
+      },
+      "category": "Character",
+      "creation_time": "2026-10-06T11:02:24.192Z",
+      "description": {
+        "content": "ลงดีเทลตัวละครหลักให้เสร็จ & แก้ไข Animation Monster Level 1 เสร็จ เพื่อนำไปใน Level 1 ตาม Core Game หลัก",
+        "mime": "text/markdown"
+      },
+      "id": "1",
+      "references": [],
+      "title": "ลงดีเทลตัวละครหลักให้เสร็จ & แก้ไข Animation Monster Level 1 เสร็จ"
+    }
+  ]
+}

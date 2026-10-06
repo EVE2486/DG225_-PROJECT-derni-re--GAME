@@ -5,20 +5,20 @@
 - [ ] เขียนโค้ดเพิ่ม UI หนังสือกับ Achievement เพื่อให้ผู้เล่นสามารถกดดูได้ [owner:: Atithap] [domain::
   programmer] [estimate:: 6h] [status:: In progress]
 
-### Story 2 — Painting others assets in level 1 & 2 Visuals
+### Story 2 — Painting others assets in level 2 and 3 Visuals, New Boss in level 2 & Story Visuals
 
-- [ ] ลงสีดีเทลเพิ่มเติมของ Assets กับ Background Level 1 [owner:: Alisa] [domain::
-  artist01] [estimate:: 8h] [status:: In progress]
+- [ ] ลงสีเก็ยรายละเอียด Assets ต่าง ๆ ในด่านที่ 2 กับ 3 เริ่มลงมือทำบอสในด่านที่ 2 และทำภาพเนื้อเรื่องที่เกี่ยวข้องกับตัวเกม [owner:: Alisa] [domain::
+  artist01] [estimate:: 12h] [status:: In progress]
 
-### Story 3 — New background for level 2 & Assets Design
+### Story 3 — New background and Platform for level 3, Assets and New Monster Design & Story Game (Main Character & All Monster)
 
-- [ ] ออกแบบ Tilemap พื้นหลังด่านที่ 2 [owner:: Chanokchon] [domain:: designer]
-  [estimate:: 4h] [status:: Done]
+- [ ] ออกแบบพื้นหลัง Platform Assets Monster และเนื้อเรื่องที่ต้องการเล่าให้กับผู้เล่นรู้สึกอินไปด้วย [owner:: Chanokchon] [domain:: designer]
+  [estimate:: 7h] [status:: Todo]
 
-### Story 4 — Platform level 1 & Items Visuals
+### Story 4 — Fix Platform Level 1, 2 | Painting new Level 3 Platform & Items Visuals
 
-- [ ] วาด Platform สำหรับ Level 1 และ Items [owner:: Pitcharpa]
-  [domain:: artist02] [estimate:: 5h] [status:: Done]
+- [ ] แก้ไข Platform ด่านที่ 1 และ 2 ให้คล้อยตามไปกับ Background กับเนื้อเรื่อง และลงสี Assets [owner:: Pitcharpa]
+  [domain:: artist02] [estimate:: 5h] [status:: Todo]
 
 <!-- Template เต็มไฟล์สำหรับสร้าง docs/agile/02-sprint-backlog.md -->
 
@@ -26,11 +26,11 @@
 
 # Sprint Backlog
 
-**Version:** 1.0 | **Last Updated:** 2026-10-07
+**Version:** 1.0 | **Last Updated:** 2026-10-06
 
 > ภาพรวมว่า User Story ไหนจาก `01-product-backlog.md` จะไปอยู่ Sprint ไหน — Sprint ที่ยังไม่ถึงคือ draft คร่าวๆ ปรับได้เสมอเมื่อเข้าใจงานมากขึ้น
 
-## Timeline (4 Sprint, Sprint ละ 2 สัปดาห์)
+## Timeline (3 Sprint, Sprint ละ 2 สัปดาห์)
 
 | Sprint   | เริ่ม | สิ้นสุด |
 | -------- | ---------- | -------------- |
@@ -41,16 +41,16 @@
 ```mermaid
 gantt
     title Project Timeline — Sprint 1-3
-    dateFormat  2026-MM-DD
+    dateFormat  YYYY-MM-DD
     section Sprints
     Sprint 1 :s1, 2026-09-01, 14d
     Sprint 2 :s2, after s1, 14d
-    Sprint 3 :s3, after s2, 14d
+    Sprint 3 :s3, 2026-10-07, 21d
 ```
 
 > ปรับวันที่ให้ตรงกับวันที่ทีมเริ่มลงมือทำจริง (ถ้าไม่ใช่วันแลปนี้)
 
-## Sprint 1 (กำลังทำ)
+## Sprint 1 (Done)
 
 | # | User Story                                                                                             | MoSCoW    | Estimate (SP) |
 | - | ------------------------------------------------------------------------------------------------------ | --------- | ------------- |
@@ -59,7 +59,7 @@ gantt
 | 3 | As a player, I want to see more detail of each items                                                   | Must Have | 6             |
 | 4 | As a player, I want to see character move and attack smoothly, realistiic                              | Must Have | 8             |
 
-## Sprint 2 (Draft)
+## Sprint 2 (Fix something)
 
 | # | User Story                                                                                                       | MoSCoW    | Estimate (SP) |
 | - | ---------------------------------------------------------------------------------------------------------------- | --------- | ------------- |
@@ -69,7 +69,7 @@ gantt
 | 4 | As a player, I want to see more detail of each items, so that I can seperate types items of them                 | Must Have | 6             |
 | 5 | As a designer, I want player has a checkpoint locate for each level, so that I can spawn where the place I spawn | Must Have | 6             |
 
-## Sprint 3 (Draft)
+## Sprint 3 (Todo)
 
 | # | User Story                                                                                   | MoSCoW      | Estimate (SP) |
 | - | -------------------------------------------------------------------------------------------- | ----------- | ------------- |
@@ -91,25 +91,26 @@ gantt
 
 - [[docs/agile/01-product-backlog|Product Backlog]]
 - [[docs/agile/sprint-plan-01|Sprint 1 Plan]]
+- [[docs/agile/sprint-plan-02|Sprint 2 Plan]]
 
 ---
 
 # Sprint [3] Plan
 
 **Sprint Goal:** [เพิ่มเติม Assets, Background, New UI, Checkpoint ในตัว Prototype]
-**ระยะเวลา:** [2026-09-22] — [2026-09-29]
+**ระยะเวลา:** [2026-10-07] — [2026-11-02]
 **Team:** [1.682110109 ชนกชนม์ หมดมลทิน / 2.682110135 พิชชาภา ชมภูมิ่ง / 3.682110151 อติเทพ ป้องนานาค / 4.682110155 อลิสา ใจสิทธิ์]
 
 ---
 
 ## Sprint Backlog
 
-| # | User Story                                                                                                       | MoSCoW    | Estimate (SP) | Status         |
-| - | ---------------------------------------------------------------------------------------------------------------- | --------- | ------------- | -------------- |
-| 1 | As a new monster in level 2, I want to attack, so that I can hurt the player                                     | Must Have | 8             | 🔲 Todo        |
-| 2 | As a items, I want to pick up, so that I can use their ability.                                                  | Must Have | 4             | 🔄 In Progress |
-| 3 | As a player, I want to see more detail of each items, so that I can seperate types items of them                 | Must Have | 6             | ✅ Done        |
-| 4 | As a designer, I want player has a checkpoint locate for each level, so that I can spawn where the place I spawn | Must Have | 6             | 🔄 In Progress |
+| # | User Story                                                                                   | MoSCoW    | Estimate (SP) | Status         |
+| - | -------------------------------------------------------------------------------------------- | --------- | ------------- | -------------- |
+| 1 | As papers of story, I want to interact with them, so that I can get a hint.                 | Must Have | 8             | 🔲 Todo        |
+| 2 | As a player, I want to scroll inventory tab, so that I can select any items in inventory tab | Must Have | 4             | 🔄 In Progress |
+| 3 | As a player, I want to see monster's hp bar, so that I know how close monsters to die        | Must Have | 6             | ✅ Done        |
+| 4 | As a ..., I want..., so that I can ...                                                       | Must Have |               |                |
 
 ## Status Legend
 
