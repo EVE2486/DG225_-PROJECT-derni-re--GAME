@@ -1,6 +1,6 @@
 # Weekly Stand-up Meeting — Week 09
 
-**วันที่ประชุม:** 2026-09-08 | **Sprint:** Sprint 1
+**วันที่ประชุม:** 2026-09-15 | **Sprint:** Sprint 2
 -------------------------------------------------------
 
 ## รายงานความคืบหน้าประจำาสัปดาห์ (3 คำถามหลัก)
@@ -19,19 +19,19 @@ MonoGame | วาด SpritesSheet การโจมตี ทั้งตัว
 
 ## Action Items & Blockers Resolution
 
-- [X] [ส่งภาพ SpritesSheet ของตัวละครให้อติเทพ] [status:: In progress]
+- [X] [ส่งภาพ SpritesSheet ของตัวละครให้อติเทพ] [status:: Done]
   [owner:: อลิสา] [due:: 2026-09-08]
-- [X] [เริ่มวาดภาพตัวละคร มอนสเตอร์ และ SpritesSheet] [status:: todo] [owner:: อลิสา]
+- [X] [เริ่มวาดภาพตัวละคร มอนสเตอร์ และ SpritesSheet] [status:: Done] [owner:: อลิสา]
   [due:: 2026-09-09]
-- [X] [ทดสอบวาง SpritesSheet ใน MonoGame และตรวจสอบภาพรวมของเกมคร่าว ๆ] [status:: todo]
+- [X] [ทดสอบวาง SpritesSheet ใน MonoGame และตรวจสอบภาพรวมของเกมคร่าว ๆ] [status:: Dpne]
   [owner:: อติเทพ] [due:: 2026-09-11]
-- [X] [รับงานวาดจากชนกชนม์ (Designer) ทั้งพื้นหลัง มอนสเตอร์ชนิดใหม่ SpritesSheet มอนสเตอร์] [status:: In progress]
+- [X] [รับงานวาดจากชนกชนม์ (Designer) ทั้งพื้นหลัง มอนสเตอร์ชนิดใหม่ SpritesSheet มอนสเตอร์] [status:: Done]
   [owner:: ชนกชนม์] [due:: 2026-09-12]
-- [ ] [ช่วยอลิสาแก้ท่าทางตัวละคร และการลงสี] [status:: In progress]
+- [X] [ช่วยอลิสาแก้ท่าทางตัวละคร และการลงสี] [status:: Done]
   [owner:: ชนกชนม์] [due:: 2026-09-10]
 - [ ] [ช่วยตรวจสอบการลงสีและการวาดอาวุธของพิชชาภา] [status:: in progress] [owner:: ชนกชนม์ หมดมลทิน]
   [due:: 2026-09-08]
-- [ ] [ส่งแบบร่างมอสเตอร์ ตัวละคร ฉากหลัง ให้อลิสา] [status:: in progress]
+- [ ] [ส่งแบบร่างมอสเตอร์ ตัวละคร ฉากหลัง ให้อลิสา] [status:: in progress] [owner:: ชนกชนม์] [due:: 2026-10-07]
 
 ---
 

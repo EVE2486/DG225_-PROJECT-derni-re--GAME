@@ -45,6 +45,21 @@
       "id": "2",
       "references": [],
       "title": "เพิ่ม Monster ใน Level 1 ให้เยอะขึ้น & เพิ่มการโจมตี Monster"
+    },
+    {
+      "assignedTo": {
+        "name": "Pitcharpa"
+      },
+      "category": "Assets",
+      "creation_time": "2026-10-12T13:42:43.160Z",
+      "description": {
+        "content": "แก้พวก Platform ให้เข้ากับพื้นหลัง ละก็เก็บดีเทล",
+        "mime": "text/markdown"
+      },
+      "id": "5",
+      "references": [],
+      "title": "แก้ Platform Level 1 & Level 2 ให้เข้ากันกับ Background และตัวละคร",
+      "type": "bug"
     }
   ],
   "done": [
