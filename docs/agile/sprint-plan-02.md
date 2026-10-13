@@ -2,8 +2,8 @@
 
 ### Story 1 — UI & Checkpoint Rules
 
-- [ ] เขียนโค้ดเพิ่มแถบช่องเก็บของ และเพิ่มจุดเกิดของผู้เล่นถ้าตาย [owner:: Atithap] [domain::
-  programmer] [estimate:: 6h] [status:: In progress]
+- [X] เขียนโค้ดเพิ่มแถบช่องเก็บของ และเพิ่มจุดเกิดของผู้เล่นถ้าตาย [owner:: Atithap] [domain::
+  programmer] [estimate:: 6h] [status:: Done]
 
 ### Story 2 — Painting others assets in level 1 & 2 Visuals
 
@@ -106,8 +106,8 @@ gantt
 
 | # | User Story                                                                                                       | MoSCoW    | Estimate (SP) | Status         |
 | - | ---------------------------------------------------------------------------------------------------------------- | --------- | ------------- | -------------- |
-| 1 | As a new monster in level 2, I want to attack, so that I can hurt the player                                     | Must Have | 8             | 🔲 Todo        |
-| 2 | As a items, I want to pick up, so that I can use their ability.                                                  | Must Have | 4             | 🔄 In Progress |
+| 1 | As a new monster in level 2, I want to attack, so that I can hurt the player                                     | Must Have | 8             | 🔄 In Progress |
+| 2 | As a items, I want to pick up, so that I can use their ability.                                                  | Must Have | 4             | ✅ Done        |
 | 3 | As a player, I want to see more detail of each items, so that I can seperate types items of them                 | Must Have | 6             | ✅ Done        |
 | 4 | As a designer, I want player has a checkpoint locate for each level, so that I can spawn where the place I spawn | Must Have | 6             | 🔄 In Progress |
 
@@ -135,7 +135,7 @@ gantt
 
 - [X] [หาไอเดีย เรฟ สำหรับลักษณะช่องไอเท็ม]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 4]  [status:: Done]
 - [X] [เลือกพาเลทสี สไตล์ ธีม ลงสี]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 5]  [status:: Done]
-- [ ] [เขียนโค้ด วางกลไกการทำงาน]  [owner:: อติเทพ ป้องนานาค]  [estimate:: 8]  [status:: In Progress]
+- [X] [เขียนโค้ด วางกลไกการทำงาน]  [owner:: อติเทพ ป้องนานาค]  [estimate:: 8]  [status:: Done]
 - [ ] [เพื่อนในกลุ่มแสดงความคิดเห็น และรับฟีดแบ็ค]  [owner:: อติเทพ ป้องนานาค]  [estimate:: 4]  [status:: In Progress]
 
 ## Tasks 3
@@ -153,5 +153,5 @@ gantt
 
 - [X] [หาไอเดีย เรฟ สำหรับการเคลื่อนไหวของตัวละคร]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 2]  [status:: Done]
 - [X] [เลือกพาเลทสี สไตล์ ธีม]  [owner:: อลิสา ใจสิทธิ์]  [estimate:: 6]  [status:: Done]
-- [ ] [เขียนโค้ด วางกลไกการทำงาน]  [owner:: อติเทพ ป้องนานาค]  [estimate:: 8]  [status:: In progress]
+- [X] [เขียนโค้ด วางกลไกการทำงาน]  [owner:: อติเทพ ป้องนานาค]  [estimate:: 8]  [status:: Done]
 - [ ] [เพื่อนในกลุ่มแสดงความคิดเห็น และรับฟีดแบ็ค]  [owner:: อลิสา ใจสิทธิ์]  [estimate:: 4]  [status:: In Progress]

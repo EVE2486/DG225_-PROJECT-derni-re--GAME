@@ -18,7 +18,7 @@
 
 ## Action Items & Blockers Resolution
 
-- [ ] [ส่งภาพ SpritesSheet 'Attack_Wrench' ของตัวละครให้อติเทพ] [status:: In progress]
+- [X] [ส่งภาพ SpritesSheet 'Attack_Wrench' ของตัวละครให้อติเทพ] [status:: Done]
   [owner:: อลิสา] [due:: 2026-10-12]
 - [ ] [ทดสอบวาง Statue Checkpoint ใน MonoGame และประสิทธิภาพการทำงาน] [status:: In progress]
   [owner:: อติเทพ] [due:: 2026-10-13]

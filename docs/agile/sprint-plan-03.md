@@ -15,7 +15,7 @@
 - [ ] ออกแบบพื้นหลัง Platform Assets Monster และเนื้อเรื่องที่ต้องการเล่าให้กับผู้เล่นรู้สึกอินไปด้วย [owner:: Chanokchon] [domain:: designer]
   [estimate:: 7h] [status:: Todo]
 
-### Story 4 — Fix Platform Level 1, 2 | Painting new Level 3 Platform & Items Visuals
+### Story 4 — Fix Platform Level 1, 2, Painting new Level 3 Platform & Items Visuals
 
 - [ ] แก้ไข Platform ด่านที่ 1 และ 2 ให้คล้อยตามไปกับ Background กับเนื้อเรื่อง และลงสี Assets [owner:: Pitcharpa]
   [domain:: artist02] [estimate:: 5h] [status:: Todo]
@@ -105,12 +105,13 @@ gantt
 
 ## Sprint Backlog
 
-| # | User Story                                                                                   | MoSCoW    | Estimate (SP) | Status         |
-| - | -------------------------------------------------------------------------------------------- | --------- | ------------- | -------------- |
-| 1 | As papers of story, I want to interact with them, so that I can get a hint.                 | Must Have | 8             | 🔲 Todo        |
-| 2 | As a player, I want to scroll inventory tab, so that I can select any items in inventory tab | Must Have | 4             | 🔄 In Progress |
-| 3 | As a player, I want to see monster's hp bar, so that I know how close monsters to die        | Must Have | 6             | ✅ Done        |
-| 4 | As a ..., I want..., so that I can ...                                                       | Must Have |               |                |
+| # | User Story                                                                                                                                                                                       | MoSCoW    | Estimate (SP) | Status         |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | ------------- | -------------- |
+| 1 | As papers of story, I want to interact with them, so that I can get a hint.                                                                                                                     | Must Have | 8             | 🔲 Todo        |
+| 2 | As a player, I want to scroll inventory tab, so that I can select any items in inventory tab                                                                                                     | Must Have | 4             | 🔄 In Progress |
+| 3 | As a player, I want to see monster's hp bar, so that I know how close monsters to die                                                                                                            | Must Have | 6             | 🔄 In Progress |
+| 4 | As a player, I want to open the Achievement & the Book, so that I can see what was I just done in my Achievement and I can read the story that I just found from around my explore in this place | Must Have | 6             | 🔄 In Progress |
+| 5 | As a ..., I want..., so that I can ...                                                                                                                                                           | Must Have |               |                |
 
 ## Status Legend
 
@@ -123,7 +124,7 @@ gantt
 
 ## Tasks 1
 
-### Story 1 — [As a new monster in level 2, I want to attack, so that I can hurt the player]
+### Story 1 — [As a new monster in level 3, I want to attack, so that I can hurt the player]
 
 - [X] [หาไอเดีย เรฟ]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 4]  [status:: Done]
 - [X] [ออกแบบเลเวลและมอนสเตอร์]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 5]  [status:: Done]
@@ -132,27 +133,26 @@ gantt
 
 ## Tasks 2
 
-### Story 2 — [As a items, I want to pick up, so that I can use their ability.]
+### Story 2 — [As a player, I want to open the Achievement & the Book, so that I can see what was I just done in my Achievement and I can read the story that I just found from around my explore in this place]
 
-- [X] [หาไอเดีย เรฟ สำหรับลักษณะช่องไอเท็ม]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 4]  [status:: Done]
+- [X] [หาไอเดีย เรฟ สำหรับ UI ตัว Achievement และ UI หนังสือ]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 2]  [status:: Done]
 - [X] [เลือกพาเลทสี สไตล์ ธีม ลงสี]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 5]  [status:: Done]
-- [ ] [เขียนโค้ด วางกลไกการทำงาน]  [owner:: อติเทพ ป้องนานาค]  [estimate:: 8]  [status:: In Progress]
-- [ ] [เพื่อนในกลุ่มแสดงความคิดเห็น และรับฟีดแบ็ค]  [owner:: อติเทพ ป้องนานาค]  [estimate:: 4]  [status:: In Progress]
+- [ ] [ลงสีเก็บรายละเอียด และ Animation อีกเล็กน้อย]  [owner:: อลิสา ใจสิทธิ์]  [estimate:: 8]  [status:: In Progress]
+- [ ] [เพื่อนในกลุ่มแสดงความคิดเห็น และรับฟีดแบ็ค]  [owner:: อลิสา ใจสิทธิ์]  [estimate:: 4]  [status:: In Progress]
 
 ## Tasks 3
 
-### Story 3 — [As a player, I want to see more detail of each items, so that I can seperate types items of them]
+### Story 3 — [As a player, I want to see background & diffent platform in level 3, so that I can know what things are coming next]
 
-- [X] [หาไอเดีย เรฟ สำหรับแต่ละไอเท็ม ]  [owner:: พิชชาภา ชมภูมิ่ง]  [estimate:: 3]  [status:: Done]
-- [X] [เลือกพาเลทสี สไตล์ ธีม]  [owner:: พิชชาภา ชมภูมิ่ง]  [estimate:: 5]  [status:: Done]
-- [ ] [ลงสี เพิ่มรายละเอียด]  [owner:: พิชชาภา ชมภูมิ่ง]  [estimate:: 7]  [status:: In Progress]
-- [ ] [เพื่อนในกลุ่มแสดงความคิดเห็น และรับฟีดแบ็ค]  [owner:: พิชชาภา ชมภูมิ่ง]  [estimate:: 4]  [status:: In Progress]
+- [ ] [หาไอเดีย เรฟ สำหรับพื้นหลังและ platform  ]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 3]  [status:: Todo]
+- [ ] [เลือกพาเลทสี สไตล์ ธีม]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 5]  [status:: Todo]
+- [ ] [ลงสี เพิ่มรายละเอียด]  [owner:: พิชชาภา ชมภูมิ่ง]  [estimate:: 7]  [status:: Todo]
+- [ ] [เพื่อนในกลุ่มแสดงความคิดเห็น และรับฟีดแบ็ค]  [owner:: พิชชาภา ชมภูมิ่ง]  [estimate:: 4]  [status:: Todo]
 
 ## Tasks 4
 
-### Story 4 — [As a designer, I want player has a checkpoint locate for each level, so that I can spawn where the place I spawn]
+### Story 4 — [As a player, I want the game has story and dialogue, so that I can follow a hint or story to find the way out]
 
-- [X] [หาไอเดีย เรฟ สำหรับการเคลื่อนไหวของตัวละคร]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 2]  [status:: Done]
-- [X] [เลือกพาเลทสี สไตล์ ธีม]  [owner:: อลิสา ใจสิทธิ์]  [estimate:: 6]  [status:: Done]
-- [ ] [เขียนโค้ด วางกลไกการทำงาน]  [owner:: อติเทพ ป้องนานาค]  [estimate:: 8]  [status:: In progress]
-- [ ] [เพื่อนในกลุ่มแสดงความคิดเห็น และรับฟีดแบ็ค]  [owner:: อลิสา ใจสิทธิ์]  [estimate:: 4]  [status:: In Progress]
+- [ ] [กำหนด Setting เนื้อเรื่องของเกม และวางขอบเขตเพื่อไม่ให้งานฟุ้ง]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 5]  [status:: In progress]
+- [ ] [วางโครงเรื่องที่ตัดสินใจเลือก เพื่อเป็นแนวทางหลัก]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 8]  [status:: In progress]
+- [ ] [เพื่อนในกลุ่มแสดงความคิดเห็น และรับฟีดแบ็ค]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 4]  [status:: In Progress]
