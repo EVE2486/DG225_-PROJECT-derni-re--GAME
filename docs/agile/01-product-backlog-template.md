@@ -16,7 +16,7 @@
 | 5 | As a player, I want to scroll inventory tab, so that I can select any items in inventory tab            | เลื่อนเมาส์กลางเพื่อเลือกใช้ไอเท็มที่ต้องการ                                                  | 4             | 3      |
 | 6 | As an player, I want more level and monster, so that I came across a new challenge and more aesthetic | โทนสีและธีมของเกมไปในทิศทางเดียวกัน รวมถึงด่านที่ยังคงเน้นการไขปริศนา | 6             | 2      |
 | 7 | As a player, I want to see more detail of each items                                                    | โทนสีเข้ากับฉาก ตัวละคร สังเกตได้ง่าย                                                                  | 6             | 2      |
-| 8 | As a player, I want to see character move and attack smoothly, realistiic                               | เคลื่อนไหวได้สมูท ลื่นไหล สมจริง                                                                            | 8             | 1      |
+| 8 | As a player, I want to see character move and attack smoothly, realistiic                               | เคลื่อนไหวได้สมูท ลื่นไหล สมจริง มากขึ้น                                                                           | 8             | 1      |
 
 ## Should Have
 
