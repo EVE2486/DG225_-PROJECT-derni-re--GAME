@@ -144,8 +144,8 @@ gantt
 
 ### Story 3 — [As a player, I want to see background & diffent platform in level 3, so that I can know what things are coming next]
 
-- [ ] [หาไอเดีย เรฟ สำหรับพื้นหลังและ platform  ]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 3]  [status:: Todo]
-- [ ] [เลือกพาเลทสี สไตล์ ธีม]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 5]  [status:: Todo]
+- [X] [หาไอเดีย เรฟ สำหรับพื้นหลังและ platform  ]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 3]  [status:: Todo]
+- [X] [เลือกพาเลทสี สไตล์ ธีม]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 5]  [status:: Todo]
 - [ ] [ลงสี เพิ่มรายละเอียด]  [owner:: พิชชาภา ชมภูมิ่ง]  [estimate:: 7]  [status:: Todo]
 - [ ] [เพื่อนในกลุ่มแสดงความคิดเห็น และรับฟีดแบ็ค]  [owner:: พิชชาภา ชมภูมิ่ง]  [estimate:: 4]  [status:: Todo]
 
@@ -153,6 +153,6 @@ gantt
 
 ### Story 4 — [As a player, I want the game has story and dialogue, so that I can follow a hint or story to find the way out]
 
-- [ ] [กำหนด Setting เนื้อเรื่องของเกม และวางขอบเขตเพื่อไม่ให้งานฟุ้ง]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 5]  [status:: In progress]
+- [X] [กำหนด Setting เนื้อเรื่องของเกม และวางขอบเขตเพื่อไม่ให้งานฟุ้ง]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 5]  [status:: In progress]
 - [ ] [วางโครงเรื่องที่ตัดสินใจเลือก เพื่อเป็นแนวทางหลัก]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 8]  [status:: In progress]
 - [ ] [เพื่อนในกลุ่มแสดงความคิดเห็น และรับฟีดแบ็ค]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 4]  [status:: In Progress]
