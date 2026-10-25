@@ -107,9 +107,9 @@ gantt
 
 | # | User Story                                                                                                                                                                                       | MoSCoW    | Estimate (SP) | Status         |
 | - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | ------------- | -------------- |
-| 1 | As papers of story, I want to interact with them, so that I can get a hint.                                                                                                                     | Must Have | 8             | 🔲 Todo        |
-| 2 | As a player, I want to scroll inventory tab, so that I can select any items in inventory tab                                                                                                     | Must Have | 4             | 🔄 In Progress |
-| 3 | As a player, I want to see monster's hp bar, so that I know how close monsters to die                                                                                                            | Must Have | 6             | 🔄 In Progress |
+| 1 | As papers of story, I want to interact with them, so that I can get a hint.                                                                                                                     | Must Have | 8             | ❌ Blocked     |
+| 2 | As a player, I want to scroll inventory tab, so that I can select any items in inventory tab                                                                                                     | Must Have | 4             | ✅ Done        |
+| 3 | As a player, I want to see monster's hp bar, so that I know how close monsters to die                                                                                                            | Must Have | 6             | ✅ Done        |
 | 4 | As a player, I want to open the Achievement & the Book, so that I can see what was I just done in my Achievement and I can read the story that I just found from around my explore in this place | Must Have | 6             | 🔄 In Progress |
 | 5 | As a ..., I want..., so that I can ...                                                                                                                                                           | Must Have |               |                |
 
@@ -129,7 +129,7 @@ gantt
 - [X] [หาไอเดีย เรฟ]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 4]  [status:: Done]
 - [X] [ออกแบบเลเวลและมอนสเตอร์]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 5]  [status:: Done]
 - [X] [เลือกพาเลทสี สไตล์ ธีม ลงสี]  [owner:: อลิสา ใจสิทธิ์]  [estimate:: 8]  [status:: Done]
-- [ ] [เพื่อนในกลุ่มแสดงความคิดเห็น และรับฟีดแบ็ค]  [owner:: อลิสา ใจสิทธิ์]  [estimate:: 4]  [status:: In Progress]
+- [X] [เพื่อนในกลุ่มแสดงความคิดเห็น และรับฟีดแบ็ค]  [owner:: อลิสา ใจสิทธิ์]  [estimate:: 4]  [status:: Done]
 
 ## Tasks 2
 
@@ -137,22 +137,22 @@ gantt
 
 - [X] [หาไอเดีย เรฟ สำหรับ UI ตัว Achievement และ UI หนังสือ]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 2]  [status:: Done]
 - [X] [เลือกพาเลทสี สไตล์ ธีม ลงสี]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 5]  [status:: Done]
-- [ ] [ลงสีเก็บรายละเอียด และ Animation อีกเล็กน้อย]  [owner:: อลิสา ใจสิทธิ์]  [estimate:: 8]  [status:: In Progress]
-- [ ] [เพื่อนในกลุ่มแสดงความคิดเห็น และรับฟีดแบ็ค]  [owner:: อลิสา ใจสิทธิ์]  [estimate:: 4]  [status:: In Progress]
+- [X] [ลงสีเก็บรายละเอียด และ Animation อีกเล็กน้อย]  [owner:: อลิสา ใจสิทธิ์]  [estimate:: 8]  [status:: Done]
+- [X] [เพื่อนในกลุ่มแสดงความคิดเห็น และรับฟีดแบ็ค]  [owner:: อลิสา ใจสิทธิ์]  [estimate:: 4]  [status:: Done]
 
 ## Tasks 3
 
 ### Story 3 — [As a player, I want to see background & diffent platform in level 3, so that I can know what things are coming next]
 
-- [X] [หาไอเดีย เรฟ สำหรับพื้นหลังและ platform  ]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 3]  [status:: Todo]
-- [X] [เลือกพาเลทสี สไตล์ ธีม]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 5]  [status:: Todo]
-- [ ] [ลงสี เพิ่มรายละเอียด]  [owner:: พิชชาภา ชมภูมิ่ง]  [estimate:: 7]  [status:: Todo]
-- [ ] [เพื่อนในกลุ่มแสดงความคิดเห็น และรับฟีดแบ็ค]  [owner:: พิชชาภา ชมภูมิ่ง]  [estimate:: 4]  [status:: Todo]
+- [X] [หาไอเดีย เรฟ สำหรับพื้นหลังและ platform  ]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 3]  [status:: Done]
+- [X] [เลือกพาเลทสี สไตล์ ธีม]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 5]  [status:: Done]
+- [X] [ลงสี เพิ่มรายละเอียด]  [owner:: พิชชาภา ชมภูมิ่ง]  [estimate:: 7]  [status:: Done]
+- [ ] [เพื่อนในกลุ่มแสดงความคิดเห็น และรับฟีดแบ็ค]  [owner:: พิชชาภา ชมภูมิ่ง]  [estimate:: 4]  [status:: In progress]
 
 ## Tasks 4
 
 ### Story 4 — [As a player, I want the game has story and dialogue, so that I can follow a hint or story to find the way out]
 
-- [X] [กำหนด Setting เนื้อเรื่องของเกม และวางขอบเขตเพื่อไม่ให้งานฟุ้ง]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 5]  [status:: In progress]
-- [ ] [วางโครงเรื่องที่ตัดสินใจเลือก เพื่อเป็นแนวทางหลัก]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 8]  [status:: In progress]
-- [ ] [เพื่อนในกลุ่มแสดงความคิดเห็น และรับฟีดแบ็ค]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 4]  [status:: In Progress]
+- [X] [กำหนด Setting เนื้อเรื่องของเกม และวางขอบเขตเพื่อไม่ให้งานฟุ้ง]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 5]  [status:: Done]
+- [X] [วางโครงเรื่องที่ตัดสินใจเลือก เพื่อเป็นแนวทางหลัก]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 8]  [status:: Done]
+- [X] [เพื่อนในกลุ่มแสดงความคิดเห็น และรับฟีดแบ็ค]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 4]  [status:: Done]

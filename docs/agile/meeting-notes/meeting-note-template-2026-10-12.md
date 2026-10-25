@@ -17,11 +17,11 @@
 
 ## Action Items & Blockers Resolution
 
-- [ ] [เริ่มลงมือทำ Background + Platform Level 3] [status:: In progress]
+- [X] [เริ่มลงมือทำ Background + Platform Level 3] [status:: Done]
   [owner:: พิชชาภา] [due:: 2026-10-17]
 - [X] [เริ่มลงมือทำ Boss Level 2] [status:: Done]
   [owner:: ชนกชนม์ & อลิสา] [due:: 2026-10-14]
-- [ ] [เริ่มลงมือทำ Boss Level 3] [status:: In progress]
+- [X] [เริ่มลงมือทำ Boss Level 3] [status:: Done]
   [owner:: ชนกชนม์ & อลิสา] [due:: 2026-10-19]
 - [ ] [เขียนโค้ดสำหรับ Level 2 เพิ่มมอนสเตอร์, Animation, Boss และเนื้อเรื่อง] [status:: In progress]
   [owner:: อติเทพ] [due:: 2026-10-18]

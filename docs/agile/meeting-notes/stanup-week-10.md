@@ -20,17 +20,17 @@
 
 - [X] [ส่งภาพ SpritesSheet 'Attack_Wrench' ของตัวละครให้อติเทพ] [status:: Done]
   [owner:: อลิสา] [due:: 2026-10-12]
-- [ ] [ทดสอบวาง Statue Checkpoint ใน MonoGame และประสิทธิภาพการทำงาน] [status:: In progress]
+- [X] [ทดสอบวาง Statue Checkpoint ใน MonoGame และประสิทธิภาพการทำงาน] [status:: Done]
   [owner:: อติเทพ] [due:: 2026-10-13]
 - [ ] [ช่วยตรวจสอบการลงสี และการแก้ Platform + Background Level 2 ของพิชชาภา (Artist02) ] [status:: in progress] [owner:: ชนกชนม์ หมดมลทิน]
   [due:: 2026-10-13]
-- [ ] [ส่งภาพ SpritesSheet 'Hurt' กับ 'Die' ของตัวละครให้อติเทพ] [status:: In progress]
+- [X] [ส่งภาพ SpritesSheet 'Hurt' กับ 'Die' ของตัวละครให้อติเทพ] [status:: Done]
   [owner:: อลิสา] [due:: 2026-10-14]
-- [ ] [รับงานวาดจากชนกชนม์ (Designer) เรื่องพาเลทสีของบอสใน Level 2 ] [status:: Todo]
+- [X] [รับงานวาดจากชนกชนม์ (Designer) เรื่องพาเลทสีของบอสใน Level 2 ] [status:: Done]
   [owner:: อลิสา] [due:: 2026-10-16]
-- [ ] [เริ่มวาดภาพมมอนสเตอร์ใน Level 3] [status:: Todo] [owner:: อลิสา]
+- [X] [เริ่มวาดภาพมมอนสเตอร์ใน Level 3] [status:: Done] [owner:: อลิสา]
   [due:: 2026-10-20]
-- [ ] [ส่งแบบร่างมอสเตอร์ ตัวละคร ฉากหลัง Level 3 ให้อลิสา] [status:: Todo] [owner:: ชนกชนม์] [due:: 2026-10-21]
+- [X] [ส่งแบบร่างมอสเตอร์ ตัวละคร ฉากหลัง Level 3 ให้อลิสา] [status:: Done] [owner:: ชนกชนม์] [due:: 2026-10-21]
 
 ---
 
