@@ -2,23 +2,23 @@
 
 ### Story 1 — เพิ่มเนื้อเรื่อง กดใช้ UI หนังสือได้ และกดตรวจสอบ UI Achievement ได้
 
-- [ ] เขียนโค้ดเพิ่ม UI หนังสือกับ Achievement เพื่อให้ผู้เล่นสามารถกดดูได้ [owner:: Atithap] [domain::
+- [ ] เขียนโค้ดเพิ่ม UI หนังสือเพื่อให้ผู้เล่นสามารถกดดูได้ [owner:: Atithap] [domain::
   programmer] [estimate:: 6h] [status:: In progress]
 
 ### Story 2 — Painting others assets in level 2 and 3 Visuals, New Boss in level 2 & Story Visuals
 
-- [ ] ลงสีเก็ยรายละเอียด Assets ต่าง ๆ ในด่านที่ 2 กับ 3 เริ่มลงมือทำบอสในด่านที่ 2 และทำภาพเนื้อเรื่องที่เกี่ยวข้องกับตัวเกม [owner:: Alisa] [domain::
-  artist01] [estimate:: 12h] [status:: In progress]
+- [X] ลงสีเก็ยรายละเอียด Assets ต่าง ๆ ในด่านที่ 2 กับ 3 เริ่มลงมือทำบอสในด่านที่ 2 และทำภาพเนื้อเรื่องที่เกี่ยวข้องกับตัวเกม [owner:: Alisa] [domain::
+  artist01] [estimate:: 12h] [status:: Done
 
 ### Story 3 — New background and Platform for level 3, Assets and New Monster Design & Story Game (Main Character & All Monster)
 
-- [ ] ออกแบบพื้นหลัง Platform Assets Monster และเนื้อเรื่องที่ต้องการเล่าให้กับผู้เล่นรู้สึกอินไปด้วย [owner:: Chanokchon] [domain:: designer]
-  [estimate:: 7h] [status:: Todo]
+- [X] ออกแบบพื้นหลัง Platform Assets Monster และเนื้อเรื่องที่ต้องการเล่าให้กับผู้เล่นรู้สึกอินไปด้วย [owner:: Chanokchon] [domain:: designer]
+  [estimate:: 7h] [status:: Done]
 
 ### Story 4 — Fix Platform Level 1, 2, Painting new Level 3 Platform & Items Visuals
 
-- [ ] แก้ไข Platform ด่านที่ 1 และ 2 ให้คล้อยตามไปกับ Background กับเนื้อเรื่อง และลงสี Assets [owner:: Pitcharpa]
-  [domain:: artist02] [estimate:: 5h] [status:: Todo]
+- [X] แก้ไข Platform ด่านที่ 1 และ 2 ให้คล้อยตามไปกับ Background กับเนื้อเรื่อง และลงสี Assets [owner:: Pitcharpa]
+  [domain:: artist02] [estimate:: 5h] [status:: Done]
 
 <!-- Template เต็มไฟล์สำหรับสร้าง docs/agile/02-sprint-backlog.md -->
 
@@ -105,13 +105,13 @@ gantt
 
 ## Sprint Backlog
 
-| # | User Story                                                                                                                                                                                       | MoSCoW    | Estimate (SP) | Status         |
-| - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | ------------- | -------------- |
-| 1 | As papers of story, I want to interact with them, so that I can get a hint.                                                                                                                     | Must Have | 8             | ❌ Blocked     |
-| 2 | As a player, I want to scroll inventory tab, so that I can select any items in inventory tab                                                                                                     | Must Have | 4             | ✅ Done        |
-| 3 | As a player, I want to see monster's hp bar, so that I know how close monsters to die                                                                                                            | Must Have | 6             | ✅ Done        |
-| 4 | As a player, I want to open the Achievement & the Book, so that I can see what was I just done in my Achievement and I can read the story that I just found from around my explore in this place | Must Have | 6             | 🔄 In Progress |
-| 5 | As a ..., I want..., so that I can ...                                                                                                                                                           | Must Have |               |                |
+| # | User Story                                                                                                                                       | MoSCoW    | Estimate (SP) | Status         |
+| - | ------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | ------------- | -------------- |
+| 1 | As papers of story, I want to interact with them, so that I can get a hint.                                                                     | Must Have | 8             | ❌ Blocked     |
+| 2 | As a player, I want to scroll inventory tab, so that I can select any items in inventory tab                                                     | Must Have | 4             | ✅ Done        |
+| 3 | As a player, I want to see monster's hp bar, so that I know how close monsters to die                                                            | Must Have | 6             | ✅ Done        |
+| 4 | As a player, I want to open the book, so that I can see what was I just done in the story that I just found from around my explore in this place | Must Have | 6             | 🔄 In Progress |
+| 5 | As a ..., I want..., so that I can ...                                                                                                           | Must Have |               |                |
 
 ## Status Legend
 
@@ -147,7 +147,7 @@ gantt
 - [X] [หาไอเดีย เรฟ สำหรับพื้นหลังและ platform  ]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 3]  [status:: Done]
 - [X] [เลือกพาเลทสี สไตล์ ธีม]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 5]  [status:: Done]
 - [X] [ลงสี เพิ่มรายละเอียด]  [owner:: พิชชาภา ชมภูมิ่ง]  [estimate:: 7]  [status:: Done]
-- [ ] [เพื่อนในกลุ่มแสดงความคิดเห็น และรับฟีดแบ็ค]  [owner:: พิชชาภา ชมภูมิ่ง]  [estimate:: 4]  [status:: In progress]
+- [X] [เพื่อนในกลุ่มแสดงความคิดเห็น และรับฟีดแบ็ค]  [owner:: พิชชาภา ชมภูมิ่ง]  [estimate:: 4]  [status:: Done]
 
 ## Tasks 4
 

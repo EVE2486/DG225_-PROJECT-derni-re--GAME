@@ -22,7 +22,7 @@
 
 - [ ] [เริ่มลงมือทำ Platform Level 3 & ปรับแก้ดีเทล Platform 1 & 2] [status:: In progress]
   [owner:: พิชชาภา] [due:: 2026-10-20]
-- [ ] [เริ่มลงมือทำเนื้อเรื่องของเกม] [status:: In progress]
+- [X] [เริ่มลงมือทำเนื้อเรื่องของเกม] [status:: Done]
   [owner:: ชนกชนม์ & อลิสา] [due:: 2026-10-21]
 - [ ] [เขียนโค้ดสำหรับ UI เพิ่มเติม] [status:: In progress]
   [owner:: อติเทพ] [due:: 2026-10-22]

@@ -22,7 +22,7 @@
   [owner:: อลิสา] [due:: 2026-10-12]
 - [X] [ทดสอบวาง Statue Checkpoint ใน MonoGame และประสิทธิภาพการทำงาน] [status:: Done]
   [owner:: อติเทพ] [due:: 2026-10-13]
-- [ ] [ช่วยตรวจสอบการลงสี และการแก้ Platform + Background Level 2 ของพิชชาภา (Artist02) ] [status:: in progress] [owner:: ชนกชนม์ หมดมลทิน]
+- [X] [ช่วยตรวจสอบการลงสี และการแก้ Platform + Background Level 2 ของพิชชาภา (Artist02) ] [status:: in progress] [owner:: ชนกชนม์ หมดมลทิน]
   [due:: 2026-10-13]
 - [X] [ส่งภาพ SpritesSheet 'Hurt' กับ 'Die' ของตัวละครให้อติเทพ] [status:: Done]
   [owner:: อลิสา] [due:: 2026-10-14]
