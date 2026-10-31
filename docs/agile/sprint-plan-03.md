@@ -105,13 +105,13 @@ gantt
 
 ## Sprint Backlog
 
-| # | User Story                                                                                                                                       | MoSCoW    | Estimate (SP) | Status         |
-| - | ------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | ------------- | -------------- |
-| 1 | As papers of story, I want to interact with them, so that I can get a hint.                                                                     | Must Have | 8             | ❌ Blocked     |
-| 2 | As a player, I want to scroll inventory tab, so that I can select any items in inventory tab                                                     | Must Have | 4             | ✅ Done        |
-| 3 | As a player, I want to see monster's hp bar, so that I know how close monsters to die                                                            | Must Have | 6             | ✅ Done        |
-| 4 | As a player, I want to open the book, so that I can see what was I just done in the story that I just found from around my explore in this place | Must Have | 6             | 🔄 In Progress |
-| 5 | As a ..., I want..., so that I can ...                                                                                                           | Must Have |               |                |
+| # | User Story                                                                                                              | MoSCoW    | Estimate (SP) | Status     |
+| - | ----------------------------------------------------------------------------------------------------------------------- | --------- | ------------- | ---------- |
+| 1 | As papers of story, I want to interact with them, so that I can get a hint.                                            | Must Have | 8             | ❌ Blocked |
+| 2 | As a player, I want to scroll inventory tab, so that I can select any items in inventory tab                            | Must Have | 4             | ✅ Done    |
+| 3 | As a player, I want to see monster's hp bar, so that I know how close monsters to die                                   | Must Have | 6             | ✅ Done    |
+| 4 | As a player, I want to know the narrative story, so that I can understand why we have to find the way out like dialogue | Must Have | 6             | ✅ Done    |
+| 5 | As a ..., I want..., so that I can ...                                                                                  | Must Have |               |            |
 
 ## Status Legend
 

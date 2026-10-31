@@ -20,9 +20,9 @@
 
 ## Action Items & Blockers Resolution
 
-- [ ] [เริ่มลงมือทำ Platform Level 3 & ปรับแก้ดีเทล Platform 1 & 2] [status:: In progress]
+- [X] [เริ่มลงมือทำ Platform Level 3 & ปรับแก้ดีเทล Platform 1 & 2] [status:: Done]
   [owner:: พิชชาภา] [due:: 2026-10-20]
 - [X] [เริ่มลงมือทำเนื้อเรื่องของเกม] [status:: Done]
   [owner:: ชนกชนม์ & อลิสา] [due:: 2026-10-21]
-- [ ] [เขียนโค้ดสำหรับ UI เพิ่มเติม] [status:: In progress]
+- [X] [เขียนโค้ดสำหรับ UI เพิ่มเติม] [status:: Done]
   [owner:: อติเทพ] [due:: 2026-10-22]
