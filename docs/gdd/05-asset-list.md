@@ -87,8 +87,8 @@ date: [07/14/2026]
 
 ## Fonts
 
-| Asset Name       | คำอธิบาย                              | แหล่งที่มา | License                     | สถานะ | รับผิดชอบ |
-| ---------------- | --------------------------------------------- | -------------------- | --------------------------- | ---------- | ------------------ |
-| `Dicaten.ttf`  | Font หลักสำหรับ UI ภายในเกม | [dafont.com]         | [CC-BY Daiushudios]         | ✅ Done   | [682110135]        |
-| `Analogue.ttf` | Font สำหรับ Diologue Cutscene 2D       | [Capcut]             | [CC-BY New Tropical Design] | ✅ Done   | [682110109]        |
-|                  |                                               |                      |                             |            |                    |
+| Asset Name       | คำอธิบาย                                | แหล่งที่มา | License                     | สถานะ | รับผิดชอบ |
+| ---------------- | ----------------------------------------------- | -------------------- | --------------------------- | ---------- | ------------------ |
+| `Dicaten.ttf`  | Font หลักสำหรับ UI ภายในเกม   | [dafont.com]         | [CC-BY Daiushudios]         | ✅ Done   | [682110135]        |
+| `Analogue.ttf` | Font สำหรับ Diologue Cutscene 2D         | [Capcut]             | [CC-BY New Tropical Design] | ✅ Done   | [682110109]        |
+| `NoScary.ttf`  | Font สำรองสำหรับ UI ภายในเกม | [dafont.com]         | [CC-BY Linafis Studio]      | ✅ Done   | [682110135]        |
