@@ -16,13 +16,13 @@
 
 ## Sprint Backlog
 
-| # | User Story                                                                                                                       | รับผิดชอบ              | MoSCoW    | Estimate (SP) | Status         |
-| - | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | --------- | ------------- | -------------- |
+| # | User Story                                                                                                                       | รับผิดชอบ              | MoSCoW    | Estimate (SP) | Status  |
+| - | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | --------- | ------------- | ------- |
 | 1 | As an player, I want more level and monster, so that I came across a new challenge and more aesthetic                          | ชนกชนม์ หมดมลทิน | Must Have | 6             | ✅ Done |
-| 2 | As a player, I want to scroll inventory tab, so that I can select any items in inventory tab                                     | อติเทพ ป้องนานาค | Must Have | 4             | 🔄 In Progress |
-| 3 | As a player, I want to see more detail of each items, so that I can feel and sort by category of them easilyer                   | พิชชาภา ชมภูมิ่ง | Must Have | 6             | 🔄 In Progress |
-| 4 | As a player, I want to see character move, attack smoothly and realistic, so that I can become immersed in the game seamlessly | อลิสา ใจสิทธิ์     | Must Have | 8             | ✅ Done        |
-| 5 | As a player, I want to see background, so that I can experience the atmosphere from game                                         | อลิสา ใจสิทธิ์     | Must Have | 3             | ✅ Done        |
+| 2 | As a player, I want to scroll inventory tab, so that I can select any items in inventory tab                                     | อติเทพ ป้องนานาค | Must Have | 4             | ✅ Done |
+| 3 | As a player, I want to see more detail of each items, so that I can feel and sort by category of them easilyer                   | พิชชาภา ชมภูมิ่ง | Must Have | 6             | ✅ Done |
+| 4 | As a player, I want to see character move, attack smoothly and realistic, so that I can become immersed in the game seamlessly | อลิสา ใจสิทธิ์     | Must Have | 8             | ✅ Done |
+| 5 | As a player, I want to see background, so that I can experience the atmosphere from game                                         | อลิสา ใจสิทธิ์     | Must Have | 3             | ✅ Done |
 
 ## Status Legend
 
@@ -48,8 +48,8 @@
 
 - [X] [หาไอเดีย เรฟ สำหรับลักษณะช่องไอเท็ม]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 4]  [status:: Done]
 - [X] [เลือกพาเลทสี สไตล์ ธีม ลงสี]  [owner:: ชนกชนม์ หมดมลทิน]  [estimate:: 5]  [status:: Done]
-- [ ] [เขียนโค้ด วางกลไกการทำงาน]  [owner:: อติเทพ ป้องนานาค]  [estimate:: 8]  [status:: In Progress]
-- [ ] [เพื่อนในกลุ่มแสดงความคิดเห็น และรับฟีดแบ็ค]  [owner:: อติเทพ ป้องนานาค]  [estimate:: 4]  [status:: In Progress]
+- [X] [เขียนโค้ด วางกลไกการทำงาน]  [owner:: อติเทพ ป้องนานาค]  [estimate:: 8]  [status:: In Progress]
+- [X] [เพื่อนในกลุ่มแสดงความคิดเห็น และรับฟีดแบ็ค]  [owner:: อติเทพ ป้องนานาค]  [estimate:: 4]  [status:: In Progress]
 
 ## Tasks 3
 
@@ -57,8 +57,8 @@
 
 - [X] [หาไอเดีย เรฟ สำหรับแต่ละไอเท็ม]  [owner:: พิชชาภา ชมภูมิ่ง]  [estimate:: 3]  [status:: Done]
 - [X] [เลือกพาเลทสี สไตล์ ธีม]  [owner:: พิชชาภา ชมภูมิ่ง]  [estimate:: 5]  [status:: Done]
-- [ ] [ลงสี เพิ่มรายละเอียด]  [owner:: พิชชาภา ชมภูมิ่ง]  [estimate:: 7]  [status:: In Progress]
-- [ ] [เพื่อนในกลุ่มแสดงความคิดเห็น และรับฟีดแบ็ค]  [owner:: พิชชาภา ชมภูมิ่ง]  [estimate:: 4]  [status:: In Progress]
+- [X] [ลงสี เพิ่มรายละเอียด]  [owner:: พิชชาภา ชมภูมิ่ง]  [estimate:: 7]  [status:: In Progress]
+- [X] [เพื่อนในกลุ่มแสดงความคิดเห็น และรับฟีดแบ็ค]  [owner:: พิชชาภา ชมภูมิ่ง]  [estimate:: 4]  [status:: In Progress]
 
 ## Tasks 4
 
