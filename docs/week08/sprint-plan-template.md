@@ -18,7 +18,7 @@
 
 | # | User Story                                                                                                                       | รับผิดชอบ              | MoSCoW    | Estimate (SP) | Status         |
 | - | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | --------- | ------------- | -------------- |
-| 1 | As an player, I want more level and monster, so that I came across a new challenge and more aesthetic                          | ชนกชนม์ หมดมลทิน | Must Have | 6             | 🔄 In Progress |
+| 1 | As an player, I want more level and monster, so that I came across a new challenge and more aesthetic                          | ชนกชนม์ หมดมลทิน | Must Have | 6             | ✅ Done |
 | 2 | As a player, I want to scroll inventory tab, so that I can select any items in inventory tab                                     | อติเทพ ป้องนานาค | Must Have | 4             | 🔄 In Progress |
 | 3 | As a player, I want to see more detail of each items, so that I can feel and sort by category of them easilyer                   | พิชชาภา ชมภูมิ่ง | Must Have | 6             | 🔄 In Progress |
 | 4 | As a player, I want to see character move, attack smoothly and realistic, so that I can become immersed in the game seamlessly | อลิสา ใจสิทธิ์     | Must Have | 8             | ✅ Done        |
