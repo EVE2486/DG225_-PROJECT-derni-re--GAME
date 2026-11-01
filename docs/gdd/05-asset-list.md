@@ -69,22 +69,28 @@ date: [07/14/2026]
 
 ## Audio — Music
 
-| Asset Name                                           | คำอธิบาย                                                     | แหล่งที่มา | License            | สถานะ | รับผิดชอบ |
-| ---------------------------------------------------- | -------------------------------------------------------------------- | -------------------- | ------------------ | ---------- | ------------------ |
-| `หน้าเข้าเกม.mp3`                       | เพลงระหว่างที่เข้าสู่หน้าเมนู           | [FreeSound.org]      | [CC_BY gunnbladez] | ✅ Done   | [682110109]        |
-| `เพลงสำรวจ.mp3`                           | เพลงระหว่างที่ตัวละครสำรวจด่าน Level 1 | [FreeSound.org]      | [CC_BY gunnbladez] | ✅ Done   | [682110109]        |
-| `เสียงเพลงตอนสู้มอนปกติ.mp3` | เพลงระหว่างตีมอนสเตอร์ตัวเล็ก Level 1   | [FreeSound.org]      | [CC_BY gunnbladez] | ✅ Done   | [682110109]        |
-| `สู้บอส.mp3`                                 | เพลงระหว่างตีบอส Level 1                             | [FreeSound.org]      | [CC_BY gunnbladez] | ✅ Done   | [682110109]        |
-| `LEVEL2_Boss_Music.mp3`                            |                                                                      |                      |                    | ✅ Done   | [682110135]        |
-| `LEVEL2_Music_1.mp3`                               |                                                                      |                      |                    | ✅ Done   | [682110135]        |
-| `LEVEL2_Music_2(Optional).ogg`                     |                                                                      |                      |                    | ✅ Done   | [682110135]        |
-| `LEVEL3_Boss_Music.mp3`                            |                                                                      |                      |                    | ✅ Done   | [682110135]        |
-| `LEVEL3_Music.wav`                                 |                                                                      |                      |                    | ✅ Done   | [682110135]        |
-|                                                      |                                                                      |                      |                    |            |                    |
+| Asset Name                                             | คำอธิบาย                                                                                               | แหล่งที่มา | License                 | สถานะ | รับผิดชอบ |
+| ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- | -------------------- | ----------------------- | ---------- | ------------------ |
+| `หน้าเข้าเกม.mp3`                         | เพลงระหว่างที่เข้าสู่หน้าเมนู                                                     | [FreeSound.org]      | [CC_BY gunnbladez]      | ✅ Done   | [682110109]        |
+| `เพลงสำรวจ.mp3`                             | เพลงระหว่างที่ตัวละครสำรวจด่าน Level 1                                           | [FreeSound.org]      | [CC_BY gunnbladez]      | ✅ Done   | [682110109]        |
+| `เสียงเพลงตอนสู้มอนปกติ.mp3`   | เพลงระหว่างตีมอนสเตอร์ตัวเล็ก Level 1                                             | [FreeSound.org]      | [CC_BY gunnbladez]      | ✅ Done   | [682110109]        |
+| `สู้บอส.mp3`                                   | เพลงระหว่างตีบอส Level 1                                                                       | [FreeSound.org]      | [CC_BY gunnbladez]      | ✅ Done   | [682110109]        |
+| `LEVEL2_Boss_Music.mp3`                              |                                                                                                                |                      |                         | ✅ Done   | [682110135]        |
+| `LEVEL2_Music_1.mp3`                                 |                                                                                                                |                      |                         | ✅ Done   | [682110135]        |
+| `LEVEL2_Music_2(Optional).ogg`                       |                                                                                                                |                      |                         | ✅ Done   | [682110135]        |
+| `LEVEL3_Boss_Music.mp3`                              |                                                                                                                |                      |                         | ✅ Done   | [682110135]        |
+| `LEVEL3_Music.wav`                                   |                                                                                                                |                      |                         | ✅ Done   | [682110135]        |
+| `A sad and painful piano piece(1110093).mp3`         | เป็นเสียงประกอบเนื้อเรื่อง Cutscene 2D ตลอดทั้งเรื่อง                  | [audiostock.net]     | [CC-BY syummacha]      | ✅ Done   | [682110109]        |
+| `Horror scary theremin tension(865975).mp3`          | เสียงประกอบช่วงตัวละครเดินออกไปมองพายุต้นคลิป Cutscene 3D         | [audiostock.net]     | [CC-BY Hazumi]         | ✅ Done   | [682110109]        |
+| `Soft Rain.mp3`                                      | เสียงฝนตกประกอบ Cutscene ตั้งแต่ต้นเรื่องจนถึงช่วงเห็นพายุ     | [FreeSound.org]      | ไม่ระบุ          | ✅ Done   | [682110109]        |
+| `Thunder.mp3`                                        | เสียงฟ้าผ่าช่วงที่พายุโผล่ขึ้นมา                                               | [FreeSound.org]      | ไม่ระบุ          | ✅ Done   | [682110109]        |
+| `Sound to walk slowly with versatile high heels.mp3` | เสียงตัวละครเดินในช่วงต้นคลิป Cutscene 3D                                         | [Pixabay.com]        | [CC-BY DRAGON-STUDIO]  | ✅ Done   | [682110109]        |
+| `A little creepy and horror ambient.mp3`             | เสียงปริศนาช่วงที่มีหนวดปริศนาโผล่เข้ามาในฉากจนจบ Cutscene 3D | [TikTok]             | [CC-BY Nezumi Imanaga] | ✅ Done   | [682110109]        |
 
 ## Fonts
 
-| Asset Name      | คำอธิบาย             | แหล่งที่มา | License             | สถานะ     | รับผิดชอบ |
-| --------------- | ---------------------------- | -------------------- | ------------------- | -------------- | ------------------ |
-| `Dicaten.ttf` | Font หลักสำหรับ UI | [dafont.com]         | [CC-BY Daiushudios] | 🔲 In progress | [682110135]        |
-|                 |                              |                      |                     |                |                    |
+| Asset Name       | คำอธิบาย                              | แหล่งที่มา | License                     | สถานะ     | รับผิดชอบ |
+| ---------------- | --------------------------------------------- | -------------------- | --------------------------- | -------------- | ------------------ |
+| `Dicaten.ttf`  | Font หลักสำหรับ UI ภายในเกม | [dafont.com]         | [CC-BY Daiushudios]         | 🔲 In progress | [682110135]        |
+| `Analogue.ttf` | Font สำหรับ Diologue Cutscene 2D       | [Capcut]             | [CC-BY New Tropical Design] | ✅ Done       | [682110109]        |
+|                  |                                               |                      |                             |                |                    |
