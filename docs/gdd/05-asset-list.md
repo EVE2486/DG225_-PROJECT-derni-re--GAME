@@ -29,9 +29,9 @@ date: [07/14/2026]
 | `Platoform_Lvl2.png`        | Platform Level 2                                                                                               | 1200×500     | Own group            |         | ✅ Done   | [682110135]            |
 | `Platorm_Lvl3.png`          | Platform Level 3                                                                                               | 1200×500     | Own group            |         | ✅ Done   | [682110135]            |
 | `Grass_Lvl2.png`            | หญ้าบน Platform Level 2                                                                                  | 1200×500     | Own group            |         | ✅ Done   | [682110135]            |
-| `Grass_Lvl2.png`            | น้ำยาลด Stamina ระหว่างที่กระโดด                                                        | 800×500      | Own group            |         | ✅ Done   | [682110135]            |
-| `Grass_Lvl2.png`            | เพิ่มพลังชีวิตผู้เล่น                                                                     | 500×500      | Own group            |         | ✅ Done   | [682110135]            |
-| `Grass_Lvl2.png`            | น้ำยาเพิ่มความเร็วในการเคลื่อนที่ของตัวละคร                         | 800×500      | Own group            |         | ✅ Done   | [682110135]            |
+| `New Jump Potion.png`       | น้ำยาลด Stamina ระหว่างที่กระโดด                                                        | 800×500      | Own group            |         | ✅ Done   | [682110135]            |
+| `Seawood.png`               | เพิ่มค่าโจมตีให้ตัวละครเป็นเวลา 5 วินาที                                  | 500×500      | Own group            |         | ✅ Done   | [682110135]            |
+| `Water.png`                 | น้ำยาเพิ่มความเร็วในการเคลื่อนที่ของตัวละคร                         | 800×500      | Own group            |         | ✅ Done   | [682110135]            |
 | `Wrench.png`                | อาวุธ 'ประแจ'                                                                                        | 1000×1000    | Own group            |         | ✅ Done   | [682110135]            |
 | `Trident.png`               | อาวุธ 'ตรีศูล'                                                                                      | 1000×1000    | Own group            |         | ✅ Done   | [682110155]            |
 | `Sword.png`                 | อาวุธ 'ดาบ'                                                                                            | 1930×4464    | Own group            |         | ✅ Done   | [682110155]            |
