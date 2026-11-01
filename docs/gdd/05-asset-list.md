@@ -7,60 +7,79 @@ date: [07/14/2026]
 
 ## Sprites / Textures
 
-
-
-| Asset Name                    | คำอธิบาย                                                                          | ขนาด [px] | แหล่งที่มา | License | สถานะ | รับผิดชอบ     |
-| ----------------------------- | ----------------------------------------------------------------------------------------- | ------------- | -------------------- | ------- | ---------- | ---------------------- |
-| `Background_Melanie.png`    | ขอบหน้าจอ                                                                        | 1920×1080    | Own group            |         | ✅ Done   | [682110155]            |
-| `SpeitrSheet_Char_Hurt.png` | ท่าตัวละครเจ็บ                                                              | 2480×3508    | Own group            |         | ✅ Done   | [682110155]            |
-| `SpriteSheet_Char_Idle.png` | ท่ายืนตัวละคร                                                                | 2400×675     | Own group            |         | ✅ Done   | [682110155]            |
-| `SpriteSheet_Char_Run.png`  | ท่าวิ่งตัวละคร                                                              | 2400×1973    | Own group            |         | ✅ Done   | [682110155]            |
-| `SpriteSheet_Char_Jump.png` | ท่ากระโดดตัวละคร                                                          | 2400×294     | Own group            |         | ✅ Done   | [682110155]            |
-| `SpriteSheet_Att_Wrench`    | ท่าโจมตีแบบประแจ                                                          | 3271×3508    | Own group            |         | ✅ Done   | [682110155]            |
-| `SpriteSheet_Att_Trident`   | ท่าโจมตีแบบตรีศูล                                                        | 3905×3307    | Own group            |         | ✅ Done   | [682110155]            |
-| `SpriteSheet_Att_Sword`     | ท่าโจมตีแบบดาบ                                                              | 4515×4464    | Own group            |         | ✅ Done   | [682110155]            |
-| `Small_Monster`             | มอนสเตอร์ตัวเล็ก Level 1                                                  | 3060×3900    | Own group            |         | ✅ Done   | [682110155]            |
-| `Boss Monster`              | บอส Level 1                                                                            | 3060×3900    | Own group            |         | ✅ Done   | [682110155]            |
-| `Meat_Monster`              | มอนสเตอร์ตัวเล็ก Level 2                                                  | 3060×3900    | Own group            |         | ✅ Done   | [682110155]            |
-| `Brother`                   | บอส Level 2                                                                            | 3060×3900    | Own group            |         | ✅ Done   | [682110135, 682110155] |
-| `Boss_Level_3`              | บอส Level 3                                                                            | 3060×3900    | Own group            |         | ✅ Done   | [682110155]            |
-| `BG_Level01`                | Background Level 1                                                                        | 1920×1080    | Own group            |         | ✅ Done   | [682110155]            |
-| `LEVEL2_BG`                 | Background Level 2                                                                        | 1920×1080    | Own group            |         | ✅ Done   | [682110135]            |
-| `LEVEL3_BG`                 | Background Level 3                                                                        | 1920×1080    | Own group            |         | ✅ Done   | [682110135]            |
-| `Platform_Lvl1.png`         | Platform Level 1                                                                          | 1200×500     | Own group            |         | ✅ Done   | [682110135]            |
-| `Platoform_Lvl2.png`        | Platform Level 2                                                                          | 1200×500     | Own group            |         | ✅ Done   | [682110135]            |
-| `Platorm_Lvl3.png`          | Platform Level 3                                                                          | 1200×500     | Own group            |         | ✅ Done   | [682110135]            |
-| `Grass_Lvl2.png`            | หญ้าบน Platform Level 2                                                             | 1200×500     | Own group            |         | ✅ Done   | [682110135]            |
-| `Grass_Lvl2.png`            | น้ำยาลด Stamina ระหว่างที่กระโดด                                   | 800×500      | Own group            |         | ✅ Done   | [682110135]            |
-| `Grass_Lvl2.png`            | เพิ่มพลังชีวิตผู้เล่น                                                | 500×500      | Own group            |         | ✅ Done   | [682110135]            |
-| `Grass_Lvl2.png`            | น้ำยาเพิ่มความเร็วในการเคลื่อนที่ของตัวละคร    | 800×500      | Own group            |         | ✅ Done   | [682110135]            |
-| `Wrench.png`                | อาวุธ 'ประแจ'                                                                   | 1000×1000    | Own group            |         | ✅ Done   | [682110135]            |
-| `Trident.png`               | อาวุธ 'ตรีศูล'                                                                 | 1000×1000    | Own group            |         | ✅ Done   | [682110155]            |
-| `Sword.png`                 | อาวุธ 'ดาบ'                                                                       | 1930×4464    | Own group            |         | ✅ Done   | [682110155]            |
-| `Power_BossMonster1.png`    | ลูกพลังจาก บอส Level 1                                                       | 1614×1538    | Own group            |         | ✅ Done   | [682110109]            |
-| `Sword_Monster.png`         | คลื่นโจมตีจาก บอส Level 2                                                 | 800×500      | Own group            |         | ✅ Done   | [682110155]            |
-| `Laser_Beam.png`            | ลำแสงโจมตีจาก บอส Level 3                                                 | 1000×1000    | Own group            |         | ✅ Done   | [682110155]            |
-| `Seawood.png`               | สาหร่ายลดการใช้ Stamina ระหว่าง Double Jump                         | 1000×1000    | Own group            |         | ✅ Done   | [682110155]            |
-| `Deadman.png`               | โครงกระดูกปริศนาใน Level 1                                              | 1000×1000    | Own group            |         | ✅ Done   | [682110155]            |
-| `Lantern.png`               | ตะเกียงประกอบฉากใน Level 1                                              | 1000×1000    | Own group            |         | ✅ Done   | [682110155]            |
-| `Rock-Level1.png`           | ก้อนหินที่หน้าที่เป็น Foreground ใน Level 1                        | 1000×1000    | Own group            |         | ✅ Done   | [682110155]            |
-| `Stone.png`                 | ก้อนหินสำหรับปริศนาใน Level 2                                        | 3060×3000    | Own group            |         | ✅ Done   | [682110155]            |
-| `Checkpoint01.png`          | แสดงจุดเช็คพอยต์ให้ผู้เล่นขณะที่ยังไม่กด Interact | 3060×3000    | Own group            |         | ✅ Done   | [682110155]            |
-| `Checkpoint02.png`          | แสดงจุดเช็คพอยต์ให้ผู้เล่นขณะที่กด Interact แล้ว    | 3060×3000    | Own group            |         | ✅ Done   | [682110155]            |
+| Asset Name                    | คำอธิบาย                                                                                               | ขนาด [px] | แหล่งที่มา | License | สถานะ | รับผิดชอบ     |
+| ----------------------------- | -------------------------------------------------------------------------------------------------------------- | ------------- | -------------------- | ------- | ---------- | ---------------------- |
+| `Background_Melanie.png`    | หน้าหลักของ Menu Game                                                                               | 1920×1080    | Own group            |         | ✅ Done   | [682110155]            |
+| `SpeitrSheet_Char_Hurt.png` | ท่าตัวละครเจ็บ                                                                                   | 2480×3508    | Own group            |         | ✅ Done   | [682110155]            |
+| `SpriteSheet_Char_Idle.png` | ท่ายืนตัวละคร                                                                                     | 2400×675     | Own group            |         | ✅ Done   | [682110155]            |
+| `SpriteSheet_Char_Run.png`  | ท่าวิ่งตัวละคร                                                                                   | 2400×1973    | Own group            |         | ✅ Done   | [682110155]            |
+| `SpriteSheet_Char_Jump.png` | ท่ากระโดดตัวละคร                                                                               | 2400×294     | Own group            |         | ✅ Done   | [682110155]            |
+| `SpriteSheet_Att_Wrench`    | ท่าโจมตีแบบประแจ                                                                               | 3271×3508    | Own group            |         | ✅ Done   | [682110155]            |
+| `SpriteSheet_Att_Trident`   | ท่าโจมตีแบบตรีศูล                                                                             | 3905×3307    | Own group            |         | ✅ Done   | [682110155]            |
+| `SpriteSheet_Att_Sword`     | ท่าโจมตีแบบดาบ                                                                                   | 4515×4464    | Own group            |         | ✅ Done   | [682110155]            |
+| `Small_Monster`             | มอนสเตอร์ตัวเล็ก Level 1                                                                       | 3060×3900    | Own group            |         | ✅ Done   | [682110155]            |
+| `Boss Monster`              | บอส Level 1                                                                                                 | 3060×3900    | Own group            |         | ✅ Done   | [682110155]            |
+| `Meat_Monster`              | มอนสเตอร์ตัวเล็ก Level 2                                                                       | 3060×3900    | Own group            |         | ✅ Done   | [682110135, 682110155] |
+| `Brother`                   | บอส Level 2                                                                                                 | 3060×3900    | Own group            |         | ✅ Done   | [682110155]            |
+| `Boss_Level_3`              | บอส Level 3                                                                                                 | 3060×3900    | Own group            |         | ✅ Done   | [682110155]            |
+| `BG_Level01`                | Background Level 1                                                                                             | 1920×1080    | Own group            |         | ✅ Done   | [682110155]            |
+| `LEVEL2_BG`                 | Background Level 2                                                                                             | 1920×1080    | Own group            |         | ✅ Done   | [682110135]            |
+| `LEVEL3_BG`                 | Background Level 3                                                                                             | 1920×1080    | Own group            |         | ✅ Done   | [682110135]            |
+| `Platform_Lvl1.png`         | Platform Level 1                                                                                               | 1200×500     | Own group            |         | ✅ Done   | [682110135]            |
+| `Platoform_Lvl2.png`        | Platform Level 2                                                                                               | 1200×500     | Own group            |         | ✅ Done   | [682110135]            |
+| `Platorm_Lvl3.png`          | Platform Level 3                                                                                               | 1200×500     | Own group            |         | ✅ Done   | [682110135]            |
+| `Grass_Lvl2.png`            | หญ้าบน Platform Level 2                                                                                  | 1200×500     | Own group            |         | ✅ Done   | [682110135]            |
+| `Grass_Lvl2.png`            | น้ำยาลด Stamina ระหว่างที่กระโดด                                                        | 800×500      | Own group            |         | ✅ Done   | [682110135]            |
+| `Grass_Lvl2.png`            | เพิ่มพลังชีวิตผู้เล่น                                                                     | 500×500      | Own group            |         | ✅ Done   | [682110135]            |
+| `Grass_Lvl2.png`            | น้ำยาเพิ่มความเร็วในการเคลื่อนที่ของตัวละคร                         | 800×500      | Own group            |         | ✅ Done   | [682110135]            |
+| `Wrench.png`                | อาวุธ 'ประแจ'                                                                                        | 1000×1000    | Own group            |         | ✅ Done   | [682110135]            |
+| `Trident.png`               | อาวุธ 'ตรีศูล'                                                                                      | 1000×1000    | Own group            |         | ✅ Done   | [682110155]            |
+| `Sword.png`                 | อาวุธ 'ดาบ'                                                                                            | 1930×4464    | Own group            |         | ✅ Done   | [682110155]            |
+| `Power_BossMonster1.png`    | ลูกพลังจาก บอส Level 1                                                                            | 1614×1538    | Own group            |         | ✅ Done   | [682110109]            |
+| `Sword_Monster.png`         | คลื่นโจมตีจาก บอส Level 2                                                                      | 800×500      | Own group            |         | ✅ Done   | [682110155]            |
+| `Laser_Beam.png`            | ลำแสงโจมตีจาก บอส Level 3                                                                      | 1000×1000    | Own group            |         | ✅ Done   | [682110155]            |
+| `Seawood.png`               | สาหร่ายลดการใช้ Stamina ระหว่าง Double Jump                                              | 1000×1000    | Own group            |         | ✅ Done   | [682110155]            |
+| `Deadman.png`               | โครงกระดูกปริศนาใน Level 1                                                                   | 1000×1000    | Own group            |         | ✅ Done   | [682110155]            |
+| `Lantern.png`               | ตะเกียงประกอบฉากใน Level 1                                                                   | 1000×1000    | Own group            |         | ✅ Done   | [682110155]            |
+| `Rock-Level1.png`           | ก้อนหินที่หน้าที่เป็น Foreground ใน Level 1                                             | 1000×1000    | Own group            |         | ✅ Done   | [682110155]            |
+| `Stone.png`                 | ก้อนหินสำหรับปริศนาใน Level 2                                                             | 3060×3000    | Own group            |         | ✅ Done   | [682110155]            |
+| `Checkpoint01.png`          | แสดงจุดเช็คพอยต์รูปแบบที่ 1 ให้ผู้เล่นขณะที่ยังไม่กด Interact | 3060×3000    | Own group            |         | ✅ Done   | [682110155]            |
+| `Checkpoint02.png`          | แสดงจุดเช็คพอยต์รูปแบบที่ 2 ให้ผู้เล่นขณะที่กด Interact แล้ว    | 3060×3000    | Own group            |         | ✅ Done   | [682110155]            |
 
 ## Audio — SFX
 
-| Asset Name                | คำอธิบาย               | แหล่งที่มา | License         | สถานะ     | รับผิดชอบ    |
-| ------------------------- | ------------------------------ | -------------------- | --------------- | -------------- | --------------------- |
-| `Horror Piano Note.wav` | `เสียงตอนเผาคน` | [FreeSound.org]      | [CC-BY kickhat] | 🔲 In progress | [682110109,682110155] |
-|                           |                                |                      |                 |                |                       |
+| Asset Name                     | คำอธิบาย                                                                         | แหล่งที่มา | License               | สถานะ | รับผิดชอบ |
+| ------------------------------ | ---------------------------------------------------------------------------------------- | -------------------- | --------------------- | ---------- | ------------------ |
+| `กิน1.mp3`                | เสียงตอนกินไอเท็ม เวอร์ชัน 1                                    | []                   | [CC-BY ]              | ✅ Done   | [682110135]        |
+| `กิน2.mp3`                | เสียงตอนกินไอเท็ม เวอร์ชัน 2                                    |                      |                       | ✅ Done   | [682110135]        |
+| `ดกยา.mp3`               | เสียงตอนตัวละครดื่มน้ำยา                                         |                      |                       | ✅ Done   | [682110135]        |
+| `ประแจ1.mp3`            | เสียงตอนตัวละครใช้ประแจ เวอร์ชัน 1                        |                      |                       | ✅ Done   | [682110135]        |
+| `ประแจ2.mp3`            | เสียงตอนตัวละครใช้ประแจ เวอร์ชัน 2                       |                      |                       | ✅ Done   | [682110135]        |
+| `เปิดประตู.mp3`     | เสียงตอนตัวละครเปิดประตูทางออกไปยังห้องถัดไป | [Patreon.com]        | [CC-BY DRAGON-STUDIO] | ✅ Done   | [682110135]        |
+| `บอลไฟ.mp3`             | เสียงตอนบอส Level 1 ปล่อยลูกพลังโจมตีผู้เล่น          |                      |                       | ✅ Done   | [682110135]        |
+| `ฟาด1.mp3`                |                                                                                          |                      |                       | ✅ Done   | [682110135]        |
+| `ฟาด2.mp3`                |                                                                                          |                      |                       | ✅ Done   | [682110135]        |
+| `มอนร้อง1.mp3`        | เสียงมอนสเตอร์ร้องเมื่อถูกโจมตี เวอร์ชัน 1        |                      |                       | ✅ Done   | [682110135]        |
+| `มอนร้อง2.mp3`        | เสียงมอนสเตอร์ร้องเมื่อถูกโจมตี เวอร์ชัน 2        |                      |                       | ✅ Done   | [682110135]        |
+| `มอนร้อง3.mp3`        | เสียงมอนสเตอร์ร้องเมื่อถูกโจมตี เวอร์ชัน 3        |                      |                       | ✅ Done   | [682110135]        |
+| `เสียงมอนตุย.mp3` | เสียงมอนสเตอร์ตาย                                                       |                      |                       | ✅ Done   | [682110135]        |
+| `เหวี่ยงดาบ1.mp3`  | เสียงขณะตัวละครใช้อาวุธดาบโจมตี เวอร์ชัน 1        |                      |                       | ✅ Done   | [682110135]        |
+| `เหวี่ยงดาบ2.mp3`  | เสียงขณะตัวละครใช้อาวุธดาบโจมตี เวอร์ชัน 2        |                      |                       | ✅ Done   | [682110135]        |
 
 ## Audio — Music
 
-| Asset Name                          | คำอธิบาย       | แหล่งที่มา | License            | สถานะ     | รับผิดชอบ |
-| ----------------------------------- | ---------------------- | -------------------- | ------------------ | -------------- | ------------------ |
-| `Live_Dark Cinematical Piano.mp3` | เพลงด่านแรก | [FreeSound.org]      | [CC_BY gunnbladez] | 🔲 In Progress | [682110109]        |
-|                                     |                        |                      |                    |                |                    |
+| Asset Name                                           | คำอธิบาย                                                     | แหล่งที่มา | License            | สถานะ | รับผิดชอบ |
+| ---------------------------------------------------- | -------------------------------------------------------------------- | -------------------- | ------------------ | ---------- | ------------------ |
+| `หน้าเข้าเกม.mp3`                       | เพลงระหว่างที่เข้าสู่หน้าเมนู           | [FreeSound.org]      | [CC_BY gunnbladez] | ✅ Done   | [682110109]        |
+| `เพลงสำรวจ.mp3`                           | เพลงระหว่างที่ตัวละครสำรวจด่าน Level 1 | [FreeSound.org]      | [CC_BY gunnbladez] | ✅ Done   | [682110109]        |
+| `เสียงเพลงตอนสู้มอนปกติ.mp3` | เพลงระหว่างตีมอนสเตอร์ตัวเล็ก Level 1   | [FreeSound.org]      | [CC_BY gunnbladez] | ✅ Done   | [682110109]        |
+| `สู้บอส.mp3`                                 | เพลงระหว่างตีบอส Level 1                             | [FreeSound.org]      | [CC_BY gunnbladez] | ✅ Done   | [682110109]        |
+| `LEVEL2_Boss_Music.mp3`                            |                                                                      |                      |                    | ✅ Done   | [682110135]        |
+| `LEVEL2_Music_1.mp3`                               |                                                                      |                      |                    | ✅ Done   | [682110135]        |
+| `LEVEL2_Music_2(Optional).ogg`                     |                                                                      |                      |                    | ✅ Done   | [682110135]        |
+| `LEVEL3_Boss_Music.mp3`                            |                                                                      |                      |                    | ✅ Done   | [682110135]        |
+| `LEVEL3_Music.wav`                                 |                                                                      |                      |                    | ✅ Done   | [682110135]        |
+|                                                      |                                                                      |                      |                    |            |                    |
 
 ## Fonts
 
