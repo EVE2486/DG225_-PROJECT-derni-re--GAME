@@ -1,23 +1,7 @@
 {
   "todo": [],
   "in-progress": [],
-  "testing": [
-    {
-      "assignedTo": {
-        "name": "Atithap"
-      },
-      "category": "Full Game",
-      "creation_time": "2026-10-31T18:39:58.318Z",
-      "description": {
-        "content": "เก็บรูปภาพ Screenshort Video Test ภายในเกมว่าเป็นไปตามที่ต้องการหรือไม่",
-        "mime": "text/markdown"
-      },
-      "id": "6",
-      "references": [],
-      "title": "ลองทดสอบตัวเกมตัวเต็ม ก่อนปล่อย PlayTesting",
-      "type": "bug"
-    }
-  ],
+  "testing": [],
   "done": [
     {
       "assignedTo": {
@@ -89,6 +73,21 @@
       "id": "2",
       "references": [],
       "title": "เพิ่ม Monster ใน Level 1 ให้เยอะขึ้น & เพิ่มการโจมตี Monster"
+    },
+    {
+      "assignedTo": {
+        "name": "Atithap"
+      },
+      "category": "Full Game",
+      "creation_time": "2026-10-31T18:39:58.318Z",
+      "description": {
+        "content": "เก็บรูปภาพ Screenshort Video Test ภายในเกมว่าเป็นไปตามที่ต้องการหรือไม่",
+        "mime": "text/markdown"
+      },
+      "id": "6",
+      "references": [],
+      "title": "ลองทดสอบตัวเกมตัวเต็ม ก่อนปล่อย PlayTesting",
+      "type": "bug"
     }
   ]
 }
